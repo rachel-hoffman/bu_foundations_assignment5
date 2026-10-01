@@ -33,6 +33,41 @@ struct pixel add(struct pixel p1, struct pixel p2) {
  *
  */
 struct image* apply_kernel(struct image* img, int* kernel, int ksize, float normalize) {
+    // Allocate space for output image
+    struct image* img_out = malloc(sizeof(struct image));
+    img_out->width = img->width;
+    img_out->height = img->height;
+    img_out->data = malloc(img->width * img->height * sizeof(int));
+    
+    // for each image row in input image:
+    for (i=0; i < img->height; i++){
+        // for each pixel in image row:
+        for (j=0; j < img->width; j++){
+            // set accumulator to zero
+            int accumulator = 0;
 
+            // for each kernel row in kernel:
+            for (x=0; x < ksize; x++){
+                // for each element in kernel row:
+                for (y=0; y < ksize; y++){
+                    // if element position  corresponding* to pixel position then
+                    row = i + x - ksize / 2;
+                    column = j + y - ksize / 2;
+                    // Check if these are in bounds
+                    if(row>=0 && row<img->height && column>=0 && column<img->width){
+                        // multiply element value corresponding* to pixel value
+                        // add result to accumulator
+                        accumulator += kernel[x * ksize + y] * img->data[row * img->width + column]; 
+                    }
+                    
+                }
+                                
+            }
+
+            // set output image pixel to accumulator * normalize 
+            img_out->data[i * img->width + j] = accumulator * normalize;
+        }
+    }
+    return img_out;
 }
 
