@@ -1,0 +1,15 @@
+(1)
+Here are the (rounded) averages I found from the four processes ran:
+USS      PSS      RSS
+7596     8664     14361
+
+The Resident Set Size is going to be the best metric to view when asking what the overall memory use of the program is, because it counts both shared and unshared memory usage. So ultimately my takeaway from the test results are that my program uses 14,705,664 bytes of memory per run, based on a sample of four runs.
+
+(2)
+This time, running the bench.sh 5 command, I am seeing a memory usage of 1,588,224 bytes, across the four processes that ran. This used significantly less memory; an average of 13,117,440 bytes less to be exact.
+
+(3)
+The processes shown on the plot have very high RSS memory usage compared to their PSS and USS memory usage. The RSS numbers are up at around 1,200 to 1,400 KB, while their PSS and USS memory usage sit around 140 and 190 KB. The memory usage remains fairly constant throughout execution, with only very small changes here are there. The processes all take roughly 12 seconds to complete.
+
+(4)
+A minor page fault will occur when there is no mapping to a page in place, however, the page is located in memory. The page table can be updated to correct this and is an easier fix, which is why it is a minor fault. A major page fault is much more resource-intensive to correct. A major page fault occurs when a page is references but it is not present in memory. This means the page needs to be brought in from disk memory, which is a longer and more resource-intensive process than simply accessing RAM.

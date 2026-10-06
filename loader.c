@@ -1,6 +1,9 @@
 #include "loader.h"
-#include <sys/mman.h>
+#include <sys/mman.h> //for mmap
+#include <sys/stat.h> // for fstat
 #include <errno.h>
+#include<string.h>
+
 
 
 /*
@@ -27,8 +30,41 @@
  * Returns 0 on success, or -1 if the file cannot be opened or mapped.
  */
 int loadimage_mmap(char* filename, struct image* image) {
+    int fd = open(filename, O_RDONLY);
+	if (fd == -1) return -1;
+
+	struct stat st;
+	int f = fstat(fd, &st);
+	if (f == -1) {
+		close(fd);
+		return -1;
+	}
+	
+	char* map = mmap(
+		NULL,
+		st.st_size, // file size in bytes
+		PROT_READ, // read-only mapping
+		MAP_PRIVATE, // can not write to the mapping
+		fd,
+		0
+	);
+	
+	if (map == MAP_FAILED) {
+		printf("mmap failed: %s\n", strerror(errno));
+		close(fd);
+		return -1;
+	}
+
+	// find the width and height of the image from the mapping
+	int* dimensions = (int*)map;
+	image->width = dimensions[0];
+	image->height = dimensions[1];
+	image->pixels = (struct pixel*)(map + 2 * sizeof(int)); // point to the start of the pixel data (pixel 0)
+
+	close(fd);
 	return 0;
 }
+	
 
 /*
  * Saves an image to a raw image file using memory-mapped I/O.
@@ -47,6 +83,46 @@ int loadimage_mmap(char* filename, struct image* image) {
  * A failed flush to disk is reported but still returns 0.
  */
 int saveimage_mmap(char* filename, struct image* image) {
+	int fd = open(filename, O_RDWR | O_CREAT | O_TRUNC, 0644);
+	if (fd == -1) return 1;
+	
+	// Compute the size of the file to be created
+	size_t pixelBytes = (size_t)image->width * image->height * sizeof(struct pixel);
+	size_t fileSize = 2 *sizeof(int) + pixelBytes;
+	
+	int result = ftruncate(fd, fileSize);
+
+	if (result == -1) {
+		close(fd);
+		return 1;
+	}
+
+	
+    char* map = mmap(
+        NULL,
+        fileSize,
+        PROT_READ | PROT_WRITE,
+        MAP_SHARED,
+        fd,
+        0
+    );
+
+    if (map == MAP_FAILED) {
+        printf("mmap failed: %s\n", strerror(errno));
+		close(fd);
+        return 1;
+    }
+
+	
+	// find the width and height of the image from the mapping
+	int* dimensions = (int*)map;
+	dimensions[0] = image->width;
+	dimensions[1] = image->height;
+
+	memcpy(map + 2 * sizeof(int), image->pixels, pixelBytes);
+	
+	munmap(map, fileSize);	
+	close(fd);
 	return 0;
 }
 
@@ -141,4 +217,10 @@ int saveimage(char* filename, struct image* image) {
 
 	close(fd);
 	return 0;
+}
+
+void unmap_image(struct image* image) {
+    void* base = (char*)image->pixels - 2 * sizeof(int);
+    size_t len = 2 * sizeof(int) + (size_t)image->width * image->height * sizeof(struct pixel);
+    munmap(base, len);
 }

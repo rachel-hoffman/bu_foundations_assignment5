@@ -1,0 +1,1555 @@
+%CPU %MEM ARGS Sun Oct  4 09:24:35 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2276
+ 0.0  0.0 ./cli kernel images/4096x40   0  1364
+ 2.4  2.9 ./cli kernel images/4096x40   0 394624
+ 2.4  2.9 ./cli kernel images/4096x40   1 394616
+ 2.4  2.9 ./cli kernel images/4096x40   0 394520
+ 2.4  2.9 ./cli kernel images/4096x40   0 394624
+ 2.4  2.9 ./cli kernel images/4096x40   1 394568
+ 2.5  2.9 ./cli kernel images/4096x40   0 394600
+ 2.5  2.9 ./cli kernel images/4096x40   0 394612
+ 2.5  2.9 ./cli kernel images/4096x40   0 394624
+ 2.5  2.9 ./cli kernel images/4096x40   0 394604
+ 2.5  2.9 ./cli kernel images/4096x40   0 394620
+ 2.5  2.9 ./cli kernel images/4096x40   0 394624
+ 2.5  2.9 ./cli kernel images/4096x40   0 394604
+ 2.5  2.9 ./cli kernel images/4096x40   0 394520
+ 2.5  2.9 ./cli kernel images/4096x40   0 394584
+ 2.5  2.9 ./cli kernel images/4096x40   1 394604
+ 2.9  2.9 ./cli kernel images/4096x40   0 394608
+ 2.9  2.9 ./cli kernel images/4096x40   1 394596
+ 2.9  2.9 ./cli kernel images/4096x40   0 394616
+ 2.9  2.9 ./cli kernel images/4096x40   0 394596
+ 2.9  2.9 ./cli kernel images/4096x40   0 394616
+ 3.0  2.9 ./cli kernel images/4096x40   0 394584
+ 3.0  2.9 ./cli kernel images/4096x40   0 394600
+ 3.0  2.9 ./cli kernel images/4096x40   0 394576
+ 3.0  2.9 ./cli kernel images/4096x40   0 394624
+ 3.0  2.9 ./cli kernel images/4096x40   0 394568
+ 3.1  2.9 ./cli kernel images/4096x40   0 394520
+ 3.1  2.9 ./cli kernel images/4096x40   0 394624
+ 3.2  2.9 ./cli kernel images/4096x40   0 394572
+ 3.2  2.9 ./cli kernel images/4096x40   0 394620
+ 3.2  2.9 ./cli kernel images/4096x40   0 394620
+  PID User     Command                         Swap      USS      PSS      RSS 
+155241 root     ./cli kernel images/4096x40        0     7248     7268     8500 
+155243 root     ./cli kernel images/4096x40        0     8132     8152     9436 
+155249 root     /usr/bin/python3 /usr/bin/s        0     7708     8247    14380 
+155258 root     /usr/bin/python3 /usr/bin/s        0     7696     8251    14480 
+155234 root     /usr/bin/python3 /usr/bin/s        0     7712     8252    14384 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394600 
+144783 root     ./cli kernel images/4096x40        0   393316   393334   394616 
+128725 root     ./cli kernel images/4096x40        0   393316   393335   394624 
+139964 root     ./cli kernel images/4096x40        0   393316   393335   394624 
+102983 root     ./cli kernel images/4096x40        0   393316   393336   394624 
+127747 root     ./cli kernel images/4096x40        0   393316   393336   394620 
+128732 root     ./cli kernel images/4096x40        0   393316   393336   394576 
+139962 root     ./cli kernel images/4096x40        0   393316   393336   394620 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394604 
+144779 root     ./cli kernel images/4096x40        0   393316   393336   394596 
+144785 root     ./cli kernel images/4096x40        0   393316   393336   394616 
+144787 root     ./cli kernel images/4096x40        0   393316   393336   394616 
+127741 root     ./cli kernel images/4096x40        0   393316   393337   394624 
+128728 root     ./cli kernel images/4096x40        0   393320   393337   394584 
+140989 root     ./cli kernel images/4096x40        0   393316   393337   394624 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394604 
+140998 root     ./cli kernel images/4096x40        0   393320   393338   394604 
+128736 root     ./cli kernel images/4096x40        0   393320   393339   394568 
+139958 root     ./cli kernel images/4096x40        0   393320   393339   394520 
+139960 root     ./cli kernel images/4096x40        0   393320   393339   394600 
+139966 root     ./cli kernel images/4096x40        0   393320   393339   394612 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394616 
+102981 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+102985 root     ./cli kernel images/4096x40        0   393320   393340   394568 
+127743 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+140991 root     ./cli kernel images/4096x40        0   393320   393340   394584 
+140995 root     ./cli kernel images/4096x40        0   393320   393340   394604 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394624 
+127749 root     ./cli kernel images/4096x40        0   393320   393341   394620 
+127738 root     ./cli kernel images/4096x40        0   393320   393342   394572 
+%CPU %MEM ARGS Sun Oct  4 09:24:42 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2148
+ 2.4  2.9 ./cli kernel images/4096x40   0 394624
+ 2.4  2.9 ./cli kernel images/4096x40   0 394616
+ 2.4  2.9 ./cli kernel images/4096x40   0 394520
+ 2.4  2.9 ./cli kernel images/4096x40   1 394624
+ 2.4  2.9 ./cli kernel images/4096x40   0 394568
+ 2.5  2.9 ./cli kernel images/4096x40   0 394600
+ 2.5  2.9 ./cli kernel images/4096x40   0 394612
+ 2.5  2.9 ./cli kernel images/4096x40   0 394624
+ 2.5  2.9 ./cli kernel images/4096x40   0 394604
+ 2.5  2.9 ./cli kernel images/4096x40   0 394620
+ 2.5  2.9 ./cli kernel images/4096x40   0 394624
+ 2.5  2.9 ./cli kernel images/4096x40   1 394604
+ 2.5  2.9 ./cli kernel images/4096x40   0 394584
+ 2.5  2.9 ./cli kernel images/4096x40   0 394520
+ 2.5  2.9 ./cli kernel images/4096x40   1 394604
+ 2.8  2.9 ./cli kernel images/4096x40   0 394616
+ 2.9  2.9 ./cli kernel images/4096x40   0 394604
+ 2.9  2.9 ./cli kernel images/4096x40   1 394616
+ 2.9  2.9 ./cli kernel images/4096x40   0 394596
+ 2.9  2.9 ./cli kernel images/4096x40   0 394616
+ 3.0  2.9 ./cli kernel images/4096x40   0 394584
+ 3.0  2.9 ./cli kernel images/4096x40   0 394600
+ 3.0  2.9 ./cli kernel images/4096x40   0 394576
+ 3.0  2.9 ./cli kernel images/4096x40   0 394624
+ 3.0  2.9 ./cli kernel images/4096x40   1 394568
+ 3.1  2.9 ./cli kernel images/4096x40   0 394520
+ 3.1  2.9 ./cli kernel images/4096x40   0 394624
+ 3.1  2.9 ./cli kernel images/4096x40   0 394572
+ 3.2  2.9 ./cli kernel images/4096x40   0 394620
+ 3.2  2.9 ./cli kernel images/4096x40   0 394620
+ 6.0  0.0 ./cli kernel images/4096x40   0  9512
+ 6.7  0.0 ./cli kernel images/4096x40   0 10360
+  PID User     Command                         Swap      USS      PSS      RSS 
+155317 root     /usr/bin/python3 /usr/bin/s        0     7708     8210    14436 
+155299 root     /usr/bin/python3 /usr/bin/s        0     7704     8227    14392 
+155308 root     /usr/bin/python3 /usr/bin/s        0     7844     8381    14676 
+155241 root     ./cli kernel images/4096x40        0    15472    15492    16724 
+155243 root     ./cli kernel images/4096x40        0    16712    16732    18016 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394600 
+128725 root     ./cli kernel images/4096x40        0   393316   393334   394624 
+139964 root     ./cli kernel images/4096x40        0   393316   393335   394624 
+140989 root     ./cli kernel images/4096x40        0   393316   393335   394624 
+102983 root     ./cli kernel images/4096x40        0   393316   393336   394624 
+127741 root     ./cli kernel images/4096x40        0   393316   393336   394624 
+139962 root     ./cli kernel images/4096x40        0   393316   393336   394620 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394604 
+144779 root     ./cli kernel images/4096x40        0   393316   393336   394596 
+144783 root     ./cli kernel images/4096x40        0   393316   393336   394616 
+144785 root     ./cli kernel images/4096x40        0   393316   393336   394616 
+144787 root     ./cli kernel images/4096x40        0   393316   393336   394616 
+127747 root     ./cli kernel images/4096x40        0   393316   393337   394620 
+128736 root     ./cli kernel images/4096x40        0   393320   393337   394568 
+128732 root     ./cli kernel images/4096x40        0   393316   393338   394576 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394604 
+128728 root     ./cli kernel images/4096x40        0   393320   393339   394584 
+139958 root     ./cli kernel images/4096x40        0   393320   393339   394520 
+139960 root     ./cli kernel images/4096x40        0   393320   393339   394600 
+139966 root     ./cli kernel images/4096x40        0   393320   393339   394612 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394616 
+102981 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+102985 root     ./cli kernel images/4096x40        0   393320   393340   394568 
+127743 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+140991 root     ./cli kernel images/4096x40        0   393320   393340   394584 
+140995 root     ./cli kernel images/4096x40        0   393320   393340   394604 
+140998 root     ./cli kernel images/4096x40        0   393320   393340   394604 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394624 
+127749 root     ./cli kernel images/4096x40        0   393320   393341   394620 
+127738 root     ./cli kernel images/4096x40        0   393320   393343   394572 
+%CPU %MEM ARGS Sun Oct  4 09:24:47 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2328
+ 2.4  2.9 ./cli kernel images/4096x40   1 394624
+ 2.4  2.9 ./cli kernel images/4096x40   1 394616
+ 2.4  2.9 ./cli kernel images/4096x40   1 394520
+ 2.4  2.9 ./cli kernel images/4096x40   1 394624
+ 2.4  2.9 ./cli kernel images/4096x40   1 394568
+ 2.5  2.9 ./cli kernel images/4096x40   1 394612
+ 2.5  2.9 ./cli kernel images/4096x40   0 394600
+ 2.5  2.9 ./cli kernel images/4096x40   1 394624
+ 2.5  2.9 ./cli kernel images/4096x40   1 394604
+ 2.5  2.9 ./cli kernel images/4096x40   1 394620
+ 2.5  2.9 ./cli kernel images/4096x40   1 394624
+ 2.5  2.9 ./cli kernel images/4096x40   1 394604
+ 2.5  2.9 ./cli kernel images/4096x40   0 394584
+ 2.5  2.9 ./cli kernel images/4096x40   1 394520
+ 2.5  2.9 ./cli kernel images/4096x40   1 394604
+ 2.8  2.9 ./cli kernel images/4096x40   1 394616
+ 2.8  2.9 ./cli kernel images/4096x40   1 394604
+ 2.8  2.9 ./cli kernel images/4096x40   1 394616
+ 2.8  2.9 ./cli kernel images/4096x40   0 394596
+ 2.9  2.9 ./cli kernel images/4096x40   1 394616
+ 3.0  2.9 ./cli kernel images/4096x40   0 394584
+ 3.0  2.9 ./cli kernel images/4096x40   1 394600
+ 3.0  2.9 ./cli kernel images/4096x40   1 394576
+ 3.0  2.9 ./cli kernel images/4096x40   1 394624
+ 3.0  2.9 ./cli kernel images/4096x40   1 394568
+ 3.1  2.9 ./cli kernel images/4096x40   1 394520
+ 3.1  2.9 ./cli kernel images/4096x40   0 394624
+ 3.1  2.9 ./cli kernel images/4096x40   1 394572
+ 3.2  2.9 ./cli kernel images/4096x40   1 394620
+ 3.2  2.9 ./cli kernel images/4096x40   1 394620
+ 7.4  0.1 ./cli kernel images/4096x40   1 18776
+ 7.6  0.1 ./cli kernel images/4096x40   0 19440
+  PID User     Command                         Swap      USS      PSS      RSS 
+155363 root     /usr/bin/python3 /usr/bin/s        0     7704     8285    14436 
+155364 root     /usr/bin/python3 /usr/bin/s        0     7836     8417    14568 
+155241 root     ./cli kernel images/4096x40        0    23556    23576    24808 
+155243 root     ./cli kernel images/4096x40        0    23756    23776    25060 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394600 
+127747 root     ./cli kernel images/4096x40        0   393316   393335   394620 
+128725 root     ./cli kernel images/4096x40        0   393316   393335   394624 
+139964 root     ./cli kernel images/4096x40        0   393316   393335   394624 
+127741 root     ./cli kernel images/4096x40        0   393316   393336   394624 
+139962 root     ./cli kernel images/4096x40        0   393316   393336   394620 
+140989 root     ./cli kernel images/4096x40        0   393316   393336   394624 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394604 
+144779 root     ./cli kernel images/4096x40        0   393316   393336   394596 
+144783 root     ./cli kernel images/4096x40        0   393316   393336   394616 
+144787 root     ./cli kernel images/4096x40        0   393316   393336   394616 
+102983 root     ./cli kernel images/4096x40        0   393316   393337   394624 
+128736 root     ./cli kernel images/4096x40        0   393320   393337   394568 
+139960 root     ./cli kernel images/4096x40        0   393320   393337   394600 
+144785 root     ./cli kernel images/4096x40        0   393316   393337   394616 
+128728 root     ./cli kernel images/4096x40        0   393320   393338   394584 
+128732 root     ./cli kernel images/4096x40        0   393316   393338   394576 
+139958 root     ./cli kernel images/4096x40        0   393320   393338   394520 
+139966 root     ./cli kernel images/4096x40        0   393320   393338   394612 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394604 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394616 
+102981 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+102985 root     ./cli kernel images/4096x40        0   393320   393340   394568 
+127743 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+127749 root     ./cli kernel images/4096x40        0   393320   393340   394620 
+140991 root     ./cli kernel images/4096x40        0   393320   393340   394584 
+140995 root     ./cli kernel images/4096x40        0   393320   393340   394604 
+140998 root     ./cli kernel images/4096x40        0   393320   393340   394604 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394624 
+127738 root     ./cli kernel images/4096x40        0   393320   393343   394572 
+%CPU %MEM ARGS Sun Oct  4 09:24:51 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2328
+ 2.4  2.9 ./cli kernel images/4096x40   1 394624
+ 2.4  2.9 ./cli kernel images/4096x40   0 394616
+ 2.4  2.9 ./cli kernel images/4096x40   1 394520
+ 2.4  2.9 ./cli kernel images/4096x40   0 394624
+ 2.4  2.9 ./cli kernel images/4096x40   1 394568
+ 2.5  2.9 ./cli kernel images/4096x40   1 394600
+ 2.5  2.9 ./cli kernel images/4096x40   1 394612
+ 2.5  2.9 ./cli kernel images/4096x40   1 394624
+ 2.5  2.9 ./cli kernel images/4096x40   0 394604
+ 2.5  2.9 ./cli kernel images/4096x40   0 394620
+ 2.5  2.9 ./cli kernel images/4096x40   0 394604
+ 2.5  2.9 ./cli kernel images/4096x40   1 394624
+ 2.5  2.9 ./cli kernel images/4096x40   1 394584
+ 2.5  2.9 ./cli kernel images/4096x40   1 394520
+ 2.5  2.9 ./cli kernel images/4096x40   0 394604
+ 2.8  2.9 ./cli kernel images/4096x40   0 394616
+ 2.8  2.9 ./cli kernel images/4096x40   0 394616
+ 2.8  2.9 ./cli kernel images/4096x40   1 394604
+ 2.8  2.9 ./cli kernel images/4096x40   0 394596
+ 2.9  2.9 ./cli kernel images/4096x40   0 394616
+ 3.0  2.9 ./cli kernel images/4096x40   1 394584
+ 3.0  2.9 ./cli kernel images/4096x40   0 394600
+ 3.0  2.9 ./cli kernel images/4096x40   0 394576
+ 3.0  2.9 ./cli kernel images/4096x40   1 394624
+ 3.0  2.9 ./cli kernel images/4096x40   0 394568
+ 3.1  2.9 ./cli kernel images/4096x40   1 394520
+ 3.1  2.9 ./cli kernel images/4096x40   1 394624
+ 3.1  2.9 ./cli kernel images/4096x40   1 394572
+ 3.1  2.9 ./cli kernel images/4096x40   0 394620
+ 3.2  2.9 ./cli kernel images/4096x40   0 394620
+ 7.7  0.1 ./cli kernel images/4096x40   1 26184
+ 7.8  0.1 ./cli kernel images/4096x40   1 26436
+  PID User     Command                         Swap      USS      PSS      RSS 
+155425 root     /usr/bin/python3 /usr/bin/s        0     7692     8244    13576 
+155243 root     ./cli kernel images/4096x40        0    32636    32657    33884 
+155241 root     ./cli kernel images/4096x40        0    32696    32717    33892 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394600 
+128725 root     ./cli kernel images/4096x40        0   393316   393335   394624 
+139964 root     ./cli kernel images/4096x40        0   393316   393335   394624 
+102983 root     ./cli kernel images/4096x40        0   393316   393336   394624 
+127741 root     ./cli kernel images/4096x40        0   393316   393336   394624 
+127747 root     ./cli kernel images/4096x40        0   393316   393336   394620 
+139962 root     ./cli kernel images/4096x40        0   393316   393336   394620 
+140989 root     ./cli kernel images/4096x40        0   393316   393336   394624 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394604 
+144779 root     ./cli kernel images/4096x40        0   393316   393336   394540 
+144785 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+128732 root     ./cli kernel images/4096x40        0   393316   393337   394576 
+144783 root     ./cli kernel images/4096x40        0   393316   393337   394560 
+144787 root     ./cli kernel images/4096x40        0   393316   393337   394560 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394604 
+127749 root     ./cli kernel images/4096x40        0   393320   393339   394620 
+128728 root     ./cli kernel images/4096x40        0   393320   393339   394584 
+128736 root     ./cli kernel images/4096x40        0   393320   393339   394568 
+139958 root     ./cli kernel images/4096x40        0   393320   393339   394520 
+139960 root     ./cli kernel images/4096x40        0   393320   393339   394600 
+139966 root     ./cli kernel images/4096x40        0   393320   393339   394612 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394616 
+102981 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+102985 root     ./cli kernel images/4096x40        0   393320   393340   394568 
+127743 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+140998 root     ./cli kernel images/4096x40        0   393320   393340   394604 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394624 
+140991 root     ./cli kernel images/4096x40        0   393320   393341   394584 
+140995 root     ./cli kernel images/4096x40        0   393320   393341   394604 
+127738 root     ./cli kernel images/4096x40        0   393320   393342   394572 
+%CPU %MEM ARGS Sun Oct  4 09:24:59 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2336
+ 2.4  2.9 ./cli kernel images/4096x40   0 394568
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394460
+ 2.4  2.9 ./cli kernel images/4096x40   0 394568
+ 2.4  2.9 ./cli kernel images/4096x40   0 394512
+ 2.5  2.9 ./cli kernel images/4096x40   0 394544
+ 2.5  2.9 ./cli kernel images/4096x40   0 394556
+ 2.5  2.9 ./cli kernel images/4096x40   0 394568
+ 2.5  2.9 ./cli kernel images/4096x40   1 394548
+ 2.5  2.9 ./cli kernel images/4096x40   1 394564
+ 2.5  2.9 ./cli kernel images/4096x40   0 394548
+ 2.5  2.9 ./cli kernel images/4096x40   1 394568
+ 2.5  2.9 ./cli kernel images/4096x40   0 394528
+ 2.5  2.9 ./cli kernel images/4096x40   1 394460
+ 2.5  2.9 ./cli kernel images/4096x40   1 394548
+ 2.8  2.9 ./cli kernel images/4096x40   0 394560
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 2.8  2.9 ./cli kernel images/4096x40   0 394540
+ 2.8  2.9 ./cli kernel images/4096x40   1 394548
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 3.0  2.9 ./cli kernel images/4096x40   0 394528
+ 3.0  2.9 ./cli kernel images/4096x40   0 394544
+ 3.0  2.9 ./cli kernel images/4096x40   1 394508
+ 3.0  2.9 ./cli kernel images/4096x40   1 394568
+ 3.0  2.9 ./cli kernel images/4096x40   1 394512
+ 3.1  2.9 ./cli kernel images/4096x40   1 394460
+ 3.1  2.9 ./cli kernel images/4096x40   0 394568
+ 3.1  2.9 ./cli kernel images/4096x40   1 394504
+ 3.1  2.9 ./cli kernel images/4096x40   0 394564
+ 3.2  2.9 ./cli kernel images/4096x40   0 394564
+ 6.8  0.2 ./cli kernel images/4096x40   0 34624
+ 7.0  0.2 ./cli kernel images/4096x40   0 35312
+  PID User     Command                         Swap      USS      PSS      RSS 
+155493 root     /usr/bin/python3 /usr/bin/s        0     7680     8220    14316 
+155474 root     /usr/bin/python3 /usr/bin/s        0     7692     8225    14292 
+155491 root     /usr/bin/python3 /usr/bin/s        0     7676     8233    14432 
+155499 root     /usr/bin/python3 /usr/bin/s        0     7708     8248    14380 
+155504 root     /usr/bin/python3 /usr/bin/s        0     7864     8408    14492 
+155241 root     ./cli kernel images/4096x40        0    38300    38319    39496 
+155243 root     ./cli kernel images/4096x40        0    38592    38611    39840 
+139964 root     ./cli kernel images/4096x40        0   393316   393334   394568 
+144776 root     ./cli kernel images/4096x40        0   393316   393334   394548 
+144779 root     ./cli kernel images/4096x40        0   393316   393334   394540 
+144783 root     ./cli kernel images/4096x40        0   393316   393334   394560 
+144785 root     ./cli kernel images/4096x40        0   393316   393334   394560 
+144787 root     ./cli kernel images/4096x40        0   393316   393334   394560 
+102983 root     ./cli kernel images/4096x40        0   393316   393335   394568 
+128725 root     ./cli kernel images/4096x40        0   393316   393335   394568 
+128734 root     ./cli kernel images/4096x40        0   393316   393335   394544 
+139962 root     ./cli kernel images/4096x40        0   393316   393335   394564 
+140989 root     ./cli kernel images/4096x40        0   393316   393335   394568 
+127741 root     ./cli kernel images/4096x40        0   393316   393336   394568 
+128732 root     ./cli kernel images/4096x40        0   393316   393336   394508 
+127747 root     ./cli kernel images/4096x40        0   393316   393337   394564 
+139966 root     ./cli kernel images/4096x40        0   393320   393337   394556 
+102985 root     ./cli kernel images/4096x40        0   393320   393338   394512 
+139958 root     ./cli kernel images/4096x40        0   393320   393338   394460 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394548 
+140995 root     ./cli kernel images/4096x40        0   393320   393338   394548 
+140998 root     ./cli kernel images/4096x40        0   393320   393338   394548 
+127743 root     ./cli kernel images/4096x40        0   393320   393339   394460 
+128728 root     ./cli kernel images/4096x40        0   393320   393339   394528 
+128736 root     ./cli kernel images/4096x40        0   393320   393339   394512 
+139960 root     ./cli kernel images/4096x40        0   393320   393339   394544 
+140991 root     ./cli kernel images/4096x40        0   393320   393339   394528 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394560 
+102981 root     ./cli kernel images/4096x40        0   393320   393340   394460 
+127749 root     ./cli kernel images/4096x40        0   393320   393340   394564 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394568 
+127738 root     ./cli kernel images/4096x40        0   393320   393341   394504 
+%CPU %MEM ARGS Sun Oct  4 09:25:04 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2304
+ 2.4  2.9 ./cli kernel images/4096x40   1 394568
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394460
+ 2.4  2.9 ./cli kernel images/4096x40   1 394568
+ 2.4  2.9 ./cli kernel images/4096x40   1 394512
+ 2.5  2.9 ./cli kernel images/4096x40   0 394544
+ 2.5  2.9 ./cli kernel images/4096x40   1 394556
+ 2.5  2.9 ./cli kernel images/4096x40   1 394568
+ 2.5  2.9 ./cli kernel images/4096x40   0 394548
+ 2.5  2.9 ./cli kernel images/4096x40   1 394564
+ 2.5  2.9 ./cli kernel images/4096x40   1 394548
+ 2.5  2.9 ./cli kernel images/4096x40   1 394568
+ 2.5  2.9 ./cli kernel images/4096x40   1 394528
+ 2.5  2.9 ./cli kernel images/4096x40   1 394460
+ 2.5  2.9 ./cli kernel images/4096x40   1 394548
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 2.8  2.9 ./cli kernel images/4096x40   0 394540
+ 2.8  2.9 ./cli kernel images/4096x40   1 394548
+ 2.8  2.9 ./cli kernel images/4096x40   0 394560
+ 3.0  2.9 ./cli kernel images/4096x40   1 394528
+ 3.0  2.9 ./cli kernel images/4096x40   1 394544
+ 3.0  2.9 ./cli kernel images/4096x40   1 394508
+ 3.0  2.9 ./cli kernel images/4096x40   1 394568
+ 3.0  2.9 ./cli kernel images/4096x40   0 394512
+ 3.1  2.9 ./cli kernel images/4096x40   1 394460
+ 3.1  2.9 ./cli kernel images/4096x40   1 394568
+ 3.1  2.9 ./cli kernel images/4096x40   1 394504
+ 3.1  2.9 ./cli kernel images/4096x40   1 394564
+ 3.2  2.9 ./cli kernel images/4096x40   0 394564
+ 6.8  0.3 ./cli kernel images/4096x40   1 40516
+ 6.8  0.3 ./cli kernel images/4096x40   1 40816
+  PID User     Command                         Swap      USS      PSS      RSS 
+155563 root     /usr/bin/python3 /usr/bin/s        0     7672     8229    14480 
+155554 root     /usr/bin/python3 /usr/bin/s        0     7692     8253    14392 
+155550 root     /usr/bin/python3 /usr/bin/s        0     7716     8294    14516 
+155544 root     /usr/bin/python3 /usr/bin/s        0     7840     8379    14572 
+155535 ?        ?                                  0     7864     8409    14672 
+155243 root     ./cli kernel images/4096x40        0    45776    45796    47024 
+155241 root     ./cli kernel images/4096x40        0    48788    48807    49984 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394544 
+144787 root     ./cli kernel images/4096x40        0   393316   393334   394560 
+102983 root     ./cli kernel images/4096x40        0   393316   393335   394568 
+128725 root     ./cli kernel images/4096x40        0   393316   393335   394568 
+127741 root     ./cli kernel images/4096x40        0   393316   393336   394568 
+128732 root     ./cli kernel images/4096x40        0   393316   393336   394508 
+139962 root     ./cli kernel images/4096x40        0   393316   393336   394564 
+139964 root     ./cli kernel images/4096x40        0   393316   393336   394568 
+140989 root     ./cli kernel images/4096x40        0   393316   393336   394568 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394548 
+144779 root     ./cli kernel images/4096x40        0   393316   393336   394540 
+144783 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+127747 root     ./cli kernel images/4096x40        0   393316   393337   394564 
+144785 root     ./cli kernel images/4096x40        0   393316   393337   394560 
+102985 root     ./cli kernel images/4096x40        0   393320   393338   394512 
+139958 root     ./cli kernel images/4096x40        0   393320   393338   394460 
+139966 root     ./cli kernel images/4096x40        0   393320   393338   394556 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394548 
+102981 root     ./cli kernel images/4096x40        0   393320   393339   394460 
+127743 root     ./cli kernel images/4096x40        0   393320   393339   394460 
+128728 root     ./cli kernel images/4096x40        0   393320   393339   394528 
+128736 root     ./cli kernel images/4096x40        0   393320   393339   394512 
+139960 root     ./cli kernel images/4096x40        0   393320   393339   394544 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394560 
+127738 root     ./cli kernel images/4096x40        0   393320   393340   394504 
+127749 root     ./cli kernel images/4096x40        0   393320   393340   394564 
+140991 root     ./cli kernel images/4096x40        0   393320   393340   394528 
+140995 root     ./cli kernel images/4096x40        0   393320   393340   394548 
+140998 root     ./cli kernel images/4096x40        0   393320   393340   394548 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394568 
+%CPU %MEM ARGS Sun Oct  4 09:25:09 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2260
+ 2.4  2.9 ./cli kernel images/4096x40   1 394568
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394460
+ 2.4  2.9 ./cli kernel images/4096x40   1 394568
+ 2.4  2.9 ./cli kernel images/4096x40   1 394512
+ 2.4  2.9 ./cli kernel images/4096x40   1 394544
+ 2.5  2.9 ./cli kernel images/4096x40   1 394556
+ 2.5  2.9 ./cli kernel images/4096x40   1 394568
+ 2.5  2.9 ./cli kernel images/4096x40   1 394564
+ 2.5  2.9 ./cli kernel images/4096x40   1 394548
+ 2.5  2.9 ./cli kernel images/4096x40   1 394548
+ 2.5  2.9 ./cli kernel images/4096x40   1 394568
+ 2.5  2.9 ./cli kernel images/4096x40   1 394528
+ 2.5  2.9 ./cli kernel images/4096x40   1 394460
+ 2.5  2.9 ./cli kernel images/4096x40   1 394548
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 2.8  2.9 ./cli kernel images/4096x40   1 394540
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 2.8  2.9 ./cli kernel images/4096x40   1 394548
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 3.0  2.9 ./cli kernel images/4096x40   1 394528
+ 3.0  2.9 ./cli kernel images/4096x40   1 394544
+ 3.0  2.9 ./cli kernel images/4096x40   1 394508
+ 3.0  2.9 ./cli kernel images/4096x40   1 394568
+ 3.0  2.9 ./cli kernel images/4096x40   1 394512
+ 3.1  2.9 ./cli kernel images/4096x40   1 394460
+ 3.1  2.9 ./cli kernel images/4096x40   1 394568
+ 3.1  2.9 ./cli kernel images/4096x40   1 394504
+ 3.1  2.9 ./cli kernel images/4096x40   1 394564
+ 3.1  2.9 ./cli kernel images/4096x40   1 394564
+ 7.0  0.3 ./cli kernel images/4096x40   1 48808
+ 7.4  0.3 ./cli kernel images/4096x40   0 51188
+  PID User     Command                         Swap      USS      PSS      RSS 
+155596 root     /usr/bin/python3 /usr/bin/s        0     7692     8355    14472 
+155600 root     /usr/bin/python3 /usr/bin/s        0     7844     8435    14532 
+155241 root     ./cli kernel images/4096x40        0    57256    57274    58452 
+155243 root     ./cli kernel images/4096x40        0    58580    58598    59828 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394544 
+128725 root     ./cli kernel images/4096x40        0   393316   393335   394568 
+139964 root     ./cli kernel images/4096x40        0   393316   393335   394568 
+140989 root     ./cli kernel images/4096x40        0   393316   393335   394568 
+102983 root     ./cli kernel images/4096x40        0   393316   393336   394568 
+128732 root     ./cli kernel images/4096x40        0   393316   393336   394508 
+139962 root     ./cli kernel images/4096x40        0   393316   393336   394564 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394548 
+144779 root     ./cli kernel images/4096x40        0   393316   393336   394540 
+144783 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+144785 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+144787 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+127741 root     ./cli kernel images/4096x40        0   393316   393337   394568 
+127747 root     ./cli kernel images/4096x40        0   393316   393337   394564 
+139960 root     ./cli kernel images/4096x40        0   393320   393337   394544 
+102981 root     ./cli kernel images/4096x40        0   393320   393338   394460 
+102985 root     ./cli kernel images/4096x40        0   393320   393338   394512 
+139958 root     ./cli kernel images/4096x40        0   393320   393338   394460 
+127743 root     ./cli kernel images/4096x40        0   393320   393339   394460 
+128728 root     ./cli kernel images/4096x40        0   393320   393339   394528 
+128736 root     ./cli kernel images/4096x40        0   393320   393339   394512 
+139966 root     ./cli kernel images/4096x40        0   393320   393339   394556 
+140993 root     ./cli kernel images/4096x40        0   393320   393339   394548 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394560 
+127749 root     ./cli kernel images/4096x40        0   393320   393340   394564 
+140991 root     ./cli kernel images/4096x40        0   393320   393340   394528 
+140995 root     ./cli kernel images/4096x40        0   393320   393340   394548 
+140998 root     ./cli kernel images/4096x40        0   393320   393340   394548 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394568 
+127738 root     ./cli kernel images/4096x40        0   393320   393341   394504 
+%CPU %MEM ARGS Sun Oct  4 09:25:14 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2332
+ 2.4  2.9 ./cli kernel images/4096x40   0 394568
+ 2.4  2.9 ./cli kernel images/4096x40   0 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394460
+ 2.4  2.9 ./cli kernel images/4096x40   1 394568
+ 2.4  2.9 ./cli kernel images/4096x40   0 394512
+ 2.4  2.9 ./cli kernel images/4096x40   0 394544
+ 2.5  2.9 ./cli kernel images/4096x40   0 394556
+ 2.5  2.9 ./cli kernel images/4096x40   1 394568
+ 2.5  2.9 ./cli kernel images/4096x40   0 394548
+ 2.5  2.9 ./cli kernel images/4096x40   1 394564
+ 2.5  2.9 ./cli kernel images/4096x40   1 394548
+ 2.5  2.9 ./cli kernel images/4096x40   0 394568
+ 2.5  2.9 ./cli kernel images/4096x40   0 394528
+ 2.5  2.9 ./cli kernel images/4096x40   0 394460
+ 2.5  2.9 ./cli kernel images/4096x40   1 394548
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 2.8  2.9 ./cli kernel images/4096x40   0 394540
+ 2.8  2.9 ./cli kernel images/4096x40   0 394548
+ 2.8  2.9 ./cli kernel images/4096x40   1 394560
+ 3.0  2.9 ./cli kernel images/4096x40   0 394528
+ 3.0  2.9 ./cli kernel images/4096x40   1 394544
+ 3.0  2.9 ./cli kernel images/4096x40   1 394508
+ 3.0  2.9 ./cli kernel images/4096x40   0 394568
+ 3.0  2.9 ./cli kernel images/4096x40   0 394512
+ 3.1  2.9 ./cli kernel images/4096x40   1 394460
+ 3.1  2.9 ./cli kernel images/4096x40   0 394568
+ 3.1  2.9 ./cli kernel images/4096x40   0 394504
+ 3.1  2.9 ./cli kernel images/4096x40   1 394564
+ 3.1  2.9 ./cli kernel images/4096x40   0 394564
+ 7.4  0.4 ./cli kernel images/4096x40   0 59468
+ 7.6  0.4 ./cli kernel images/4096x40   0 60780
+  PID User     Command                         Swap      USS      PSS      RSS 
+155674 root     /usr/bin/python3 /usr/bin/s        0     7708     8156    13860 
+155665 root     /usr/bin/python3 /usr/bin/s        0     7724     8189    13904 
+155241 root     ./cli kernel images/4096x40        0    67328    67348    68516 
+155243 root     ./cli kernel images/4096x40        0    71496    71516    72736 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394544 
+128725 root     ./cli kernel images/4096x40        0   393316   393334   394568 
+144779 root     ./cli kernel images/4096x40        0   393316   393334   394532 
+139964 root     ./cli kernel images/4096x40        0   393316   393335   394560 
+102983 root     ./cli kernel images/4096x40        0   393316   393336   394568 
+127747 root     ./cli kernel images/4096x40        0   393316   393336   394564 
+128732 root     ./cli kernel images/4096x40        0   393316   393336   394508 
+139962 root     ./cli kernel images/4096x40        0   393316   393336   394556 
+140989 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394540 
+144783 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+144785 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+144787 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+127741 root     ./cli kernel images/4096x40        0   393316   393337   394568 
+128728 root     ./cli kernel images/4096x40        0   393320   393337   394528 
+139966 root     ./cli kernel images/4096x40        0   393320   393337   394548 
+139958 root     ./cli kernel images/4096x40        0   393320   393338   394448 
+140995 root     ./cli kernel images/4096x40        0   393320   393338   394540 
+102981 root     ./cli kernel images/4096x40        0   393320   393339   394460 
+127743 root     ./cli kernel images/4096x40        0   393320   393339   394460 
+128736 root     ./cli kernel images/4096x40        0   393320   393339   394512 
+139960 root     ./cli kernel images/4096x40        0   393320   393339   394536 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394560 
+102985 root     ./cli kernel images/4096x40        0   393320   393340   394512 
+140991 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+140993 root     ./cli kernel images/4096x40        0   393320   393340   394540 
+140998 root     ./cli kernel images/4096x40        0   393320   393340   394540 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394568 
+127738 root     ./cli kernel images/4096x40        0   393320   393341   394504 
+127749 root     ./cli kernel images/4096x40        0   393320   393341   394564 
+%CPU %MEM ARGS Sun Oct  4 09:25:22 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2312
+ 2.4  2.9 ./cli kernel images/4096x40   0 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394552
+ 2.4  2.9 ./cli kernel images/4096x40   1 394448
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394504
+ 2.4  2.9 ./cli kernel images/4096x40   1 394536
+ 2.4  2.9 ./cli kernel images/4096x40   1 394548
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.5  2.9 ./cli kernel images/4096x40   1 394540
+ 2.5  2.9 ./cli kernel images/4096x40   1 394556
+ 2.5  2.9 ./cli kernel images/4096x40   1 394540
+ 2.5  2.9 ./cli kernel images/4096x40   1 394560
+ 2.5  2.9 ./cli kernel images/4096x40   1 394520
+ 2.5  2.9 ./cli kernel images/4096x40   1 394448
+ 2.5  2.9 ./cli kernel images/4096x40   1 394540
+ 2.8  2.9 ./cli kernel images/4096x40   1 394552
+ 2.8  2.9 ./cli kernel images/4096x40   1 394552
+ 2.8  2.9 ./cli kernel images/4096x40   1 394540
+ 2.8  2.9 ./cli kernel images/4096x40   1 394532
+ 2.8  2.9 ./cli kernel images/4096x40   1 394552
+ 3.0  2.9 ./cli kernel images/4096x40   1 394520
+ 3.0  2.9 ./cli kernel images/4096x40   1 394536
+ 3.0  2.9 ./cli kernel images/4096x40   1 394488
+ 3.0  2.9 ./cli kernel images/4096x40   1 394560
+ 3.0  2.9 ./cli kernel images/4096x40   1 394504
+ 3.1  2.9 ./cli kernel images/4096x40   1 394448
+ 3.1  2.9 ./cli kernel images/4096x40   1 394560
+ 3.1  2.9 ./cli kernel images/4096x40   1 394492
+ 3.1  2.9 ./cli kernel images/4096x40   1 394556
+ 3.1  2.9 ./cli kernel images/4096x40   1 394556
+ 7.3  0.5 ./cli kernel images/4096x40   1 69816
+ 7.8  0.5 ./cli kernel images/4096x40   1 73780
+  PID User     Command                         Swap      USS      PSS      RSS 
+155742 root     /usr/bin/python3 /usr/bin/s        0     7692     8220    14356 
+155733 root     /usr/bin/python3 /usr/bin/s        0     7724     8263    14508 
+155241 root     ./cli kernel images/4096x40        0    75492    75512    76680 
+155243 root     ./cli kernel images/4096x40        0    79928    79948    81168 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394536 
+128725 root     ./cli kernel images/4096x40        0   393316   393334   394560 
+139964 root     ./cli kernel images/4096x40        0   393316   393334   394560 
+144783 root     ./cli kernel images/4096x40        0   393316   393334   394552 
+102983 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+127741 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+128732 root     ./cli kernel images/4096x40        0   393316   393336   394488 
+139962 root     ./cli kernel images/4096x40        0   393316   393336   394556 
+140989 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394540 
+144779 root     ./cli kernel images/4096x40        0   393316   393336   394532 
+144785 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+144787 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+127747 root     ./cli kernel images/4096x40        0   393316   393337   394556 
+128728 root     ./cli kernel images/4096x40        0   393320   393338   394520 
+128736 root     ./cli kernel images/4096x40        0   393320   393338   394504 
+139958 root     ./cli kernel images/4096x40        0   393320   393338   394448 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394540 
+102981 root     ./cli kernel images/4096x40        0   393320   393339   394448 
+127743 root     ./cli kernel images/4096x40        0   393320   393339   394448 
+139960 root     ./cli kernel images/4096x40        0   393320   393339   394536 
+139966 root     ./cli kernel images/4096x40        0   393320   393339   394548 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394552 
+102985 root     ./cli kernel images/4096x40        0   393320   393340   394504 
+127749 root     ./cli kernel images/4096x40        0   393320   393340   394556 
+140991 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+140995 root     ./cli kernel images/4096x40        0   393320   393340   394540 
+140998 root     ./cli kernel images/4096x40        0   393320   393340   394540 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394560 
+127738 root     ./cli kernel images/4096x40        0   393320   393341   394492 
+%CPU %MEM ARGS Sun Oct  4 09:25:28 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2308
+ 2.4  2.9 ./cli kernel images/4096x40   0 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394552
+ 2.4  2.9 ./cli kernel images/4096x40   1 394448
+ 2.4  2.9 ./cli kernel images/4096x40   0 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394504
+ 2.4  2.9 ./cli kernel images/4096x40   0 394536
+ 2.4  2.9 ./cli kernel images/4096x40   1 394548
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394540
+ 2.5  2.9 ./cli kernel images/4096x40   1 394556
+ 2.5  2.9 ./cli kernel images/4096x40   1 394540
+ 2.5  2.9 ./cli kernel images/4096x40   1 394560
+ 2.5  2.9 ./cli kernel images/4096x40   0 394520
+ 2.5  2.9 ./cli kernel images/4096x40   1 394448
+ 2.5  2.9 ./cli kernel images/4096x40   1 394540
+ 2.8  2.9 ./cli kernel images/4096x40   1 394552
+ 2.8  2.9 ./cli kernel images/4096x40   1 394552
+ 2.8  2.9 ./cli kernel images/4096x40   1 394540
+ 2.8  2.9 ./cli kernel images/4096x40   0 394532
+ 2.8  2.9 ./cli kernel images/4096x40   1 394552
+ 3.0  2.9 ./cli kernel images/4096x40   0 394520
+ 3.0  2.9 ./cli kernel images/4096x40   1 394536
+ 3.0  2.9 ./cli kernel images/4096x40   1 394488
+ 3.0  2.9 ./cli kernel images/4096x40   1 394560
+ 3.0  2.9 ./cli kernel images/4096x40   1 394504
+ 3.1  2.9 ./cli kernel images/4096x40   1 394448
+ 3.1  2.9 ./cli kernel images/4096x40   0 394560
+ 3.1  2.9 ./cli kernel images/4096x40   1 394492
+ 3.1  2.9 ./cli kernel images/4096x40   1 394556
+ 3.1  2.9 ./cli kernel images/4096x40   1 394556
+ 7.3  0.5 ./cli kernel images/4096x40   0 78272
+ 7.8  0.6 ./cli kernel images/4096x40   1 82336
+  PID User     Command                         Swap      USS      PSS      RSS 
+155802 root     /usr/bin/python3 /usr/bin/s        0     7676     8242    14356 
+155797 root     /usr/bin/python3 /usr/bin/s        0     7712     8287    14440 
+155241 root     ./cli kernel images/4096x40        0    84104    84124    85292 
+155243 root     ./cli kernel images/4096x40        0    86360    86380    87600 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394536 
+139962 root     ./cli kernel images/4096x40        0   393316   393334   394556 
+127747 root     ./cli kernel images/4096x40        0   393316   393335   394556 
+128725 root     ./cli kernel images/4096x40        0   393316   393335   394560 
+128732 root     ./cli kernel images/4096x40        0   393316   393335   394488 
+139964 root     ./cli kernel images/4096x40        0   393316   393335   394560 
+140989 root     ./cli kernel images/4096x40        0   393316   393335   394560 
+102983 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+127741 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394540 
+144779 root     ./cli kernel images/4096x40        0   393316   393336   394532 
+144783 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+144785 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+144787 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+127749 root     ./cli kernel images/4096x40        0   393320   393338   394556 
+128736 root     ./cli kernel images/4096x40        0   393320   393338   394504 
+139958 root     ./cli kernel images/4096x40        0   393320   393338   394448 
+140991 root     ./cli kernel images/4096x40        0   393320   393338   394520 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394540 
+102981 root     ./cli kernel images/4096x40        0   393320   393339   394448 
+127743 root     ./cli kernel images/4096x40        0   393320   393339   394448 
+128728 root     ./cli kernel images/4096x40        0   393320   393339   394520 
+139960 root     ./cli kernel images/4096x40        0   393320   393339   394536 
+139966 root     ./cli kernel images/4096x40        0   393320   393339   394548 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394552 
+102985 root     ./cli kernel images/4096x40        0   393320   393340   394504 
+140995 root     ./cli kernel images/4096x40        0   393320   393340   394540 
+140998 root     ./cli kernel images/4096x40        0   393320   393340   394540 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394560 
+127738 root     ./cli kernel images/4096x40        0   393320   393341   394492 
+%CPU %MEM ARGS Sun Oct  4 09:25:32 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2252
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.4  2.9 ./cli kernel images/4096x40   0 394552
+ 2.4  2.9 ./cli kernel images/4096x40   0 394448
+ 2.4  2.9 ./cli kernel images/4096x40   0 394560
+ 2.4  2.9 ./cli kernel images/4096x40   0 394504
+ 2.4  2.9 ./cli kernel images/4096x40   0 394536
+ 2.4  2.9 ./cli kernel images/4096x40   0 394548
+ 2.4  2.9 ./cli kernel images/4096x40   0 394560
+ 2.4  2.9 ./cli kernel images/4096x40   0 394540
+ 2.4  2.9 ./cli kernel images/4096x40   0 394556
+ 2.5  2.9 ./cli kernel images/4096x40   0 394560
+ 2.5  2.9 ./cli kernel images/4096x40   0 394540
+ 2.5  2.9 ./cli kernel images/4096x40   0 394520
+ 2.5  2.9 ./cli kernel images/4096x40   0 394448
+ 2.5  2.9 ./cli kernel images/4096x40   0 394540
+ 2.8  2.9 ./cli kernel images/4096x40   0 394552
+ 2.8  2.9 ./cli kernel images/4096x40   0 394552
+ 2.8  2.9 ./cli kernel images/4096x40   0 394540
+ 2.8  2.9 ./cli kernel images/4096x40   0 394532
+ 2.8  2.9 ./cli kernel images/4096x40   0 394552
+ 3.0  2.9 ./cli kernel images/4096x40   1 394520
+ 3.0  2.9 ./cli kernel images/4096x40   0 394536
+ 3.0  2.9 ./cli kernel images/4096x40   0 394488
+ 3.0  2.9 ./cli kernel images/4096x40   0 394560
+ 3.0  2.9 ./cli kernel images/4096x40   0 394504
+ 3.1  2.9 ./cli kernel images/4096x40   0 394448
+ 3.1  2.9 ./cli kernel images/4096x40   0 394560
+ 3.1  2.9 ./cli kernel images/4096x40   0 394492
+ 3.1  2.9 ./cli kernel images/4096x40   0 394556
+ 3.1  2.9 ./cli kernel images/4096x40   0 394556
+ 7.5  0.6 ./cli kernel images/4096x40   0 85864
+ 7.8  0.6 ./cli kernel images/4096x40   0 88136
+  PID User     Command                         Swap      USS      PSS      RSS 
+155844 root     /usr/bin/python3 /usr/bin/s        0     7684     8261    14348 
+155820 root     /usr/bin/python3 /usr/bin/s        0     7720     8282    14552 
+155835 root     /usr/bin/python3 /usr/bin/s        0     7676     8282    14344 
+155849 root     /usr/bin/python3 /usr/bin/s        0     7880     8452    14612 
+155827 ?        ?                                  0     7936     8611    14872 
+155241 root     ./cli kernel images/4096x40        0    93196    93216    94384 
+155243 root     ./cli kernel images/4096x40        0    93456    93476    94696 
+128734 root     ./cli kernel images/4096x40        0   393316   393333   394536 
+128725 root     ./cli kernel images/4096x40        0   393316   393335   394560 
+128732 root     ./cli kernel images/4096x40        0   393316   393335   394488 
+139964 root     ./cli kernel images/4096x40        0   393316   393335   394560 
+140989 root     ./cli kernel images/4096x40        0   393316   393335   394560 
+102983 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+127741 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+139962 root     ./cli kernel images/4096x40        0   393316   393336   394556 
+144776 root     ./cli kernel images/4096x40        0   393316   393336   394540 
+144779 root     ./cli kernel images/4096x40        0   393316   393336   394532 
+144783 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+144785 root     ./cli kernel images/4096x40        0   393316   393336   394552 
+127747 root     ./cli kernel images/4096x40        0   393316   393337   394556 
+144787 root     ./cli kernel images/4096x40        0   393316   393337   394552 
+128736 root     ./cli kernel images/4096x40        0   393320   393338   394504 
+139958 root     ./cli kernel images/4096x40        0   393320   393338   394448 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394540 
+102981 root     ./cli kernel images/4096x40        0   393320   393339   394448 
+102985 root     ./cli kernel images/4096x40        0   393320   393339   394504 
+127743 root     ./cli kernel images/4096x40        0   393320   393339   394448 
+128728 root     ./cli kernel images/4096x40        0   393320   393339   394520 
+139960 root     ./cli kernel images/4096x40        0   393320   393339   394536 
+139966 root     ./cli kernel images/4096x40        0   393320   393339   394548 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394552 
+127738 root     ./cli kernel images/4096x40        0   393320   393340   394492 
+127749 root     ./cli kernel images/4096x40        0   393320   393340   394556 
+140991 root     ./cli kernel images/4096x40        0   393320   393340   394520 
+140995 root     ./cli kernel images/4096x40        0   393320   393340   394540 
+140998 root     ./cli kernel images/4096x40        0   393320   393340   394540 
+102976 root     ./cli kernel images/4096x40        0   393320   393341   394560 
+%CPU %MEM ARGS Sun Oct  4 09:25:36 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2300
+ 2.4  2.9 ./cli kernel images/4096x40   0 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394552
+ 2.4  2.9 ./cli kernel images/4096x40   1 394448
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394504
+ 2.4  2.9 ./cli kernel images/4096x40   1 394536
+ 2.4  2.9 ./cli kernel images/4096x40   1 394548
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.4  2.9 ./cli kernel images/4096x40   1 394540
+ 2.4  2.9 ./cli kernel images/4096x40   0 394556
+ 2.4  2.9 ./cli kernel images/4096x40   1 394560
+ 2.4  2.9 ./cli kernel images/4096x40   0 394540
+ 2.4  2.9 ./cli kernel images/4096x40   1 394520
+ 2.5  2.9 ./cli kernel images/4096x40   1 394448
+ 2.5  2.9 ./cli kernel images/4096x40   1 394540
+ 2.8  2.9 ./cli kernel images/4096x40   0 394552
+ 2.8  2.9 ./cli kernel images/4096x40   0 394552
+ 2.8  2.9 ./cli kernel images/4096x40   0 394540
+ 2.8  2.9 ./cli kernel images/4096x40   1 394532
+ 2.8  2.9 ./cli kernel images/4096x40   0 394552
+ 3.0  2.9 ./cli kernel images/4096x40   1 394520
+ 3.0  2.9 ./cli kernel images/4096x40   0 394536
+ 3.0  2.9 ./cli kernel images/4096x40   1 394488
+ 3.0  2.9 ./cli kernel images/4096x40   1 394560
+ 3.0  2.9 ./cli kernel images/4096x40   1 394504
+ 3.1  2.9 ./cli kernel images/4096x40   1 394448
+ 3.1  2.9 ./cli kernel images/4096x40   0 394560
+ 3.1  2.9 ./cli kernel images/4096x40   0 394492
+ 3.1  2.9 ./cli kernel images/4096x40   1 394556
+ 3.1  2.9 ./cli kernel images/4096x40   0 394556
+ 7.9  0.7 ./cli kernel images/4096x40   1 95788
+ 8.3  0.7 ./cli kernel images/4096x40   1 101588
+  PID User     Command                         Swap      USS      PSS      RSS 
+155899 root     /usr/bin/python3 /usr/bin/s        0     7672     7831    10524 
+155876 root     /usr/bin/python3 /usr/bin/s        0     7680     7844    10604 
+155890 root     /usr/bin/python3 /usr/bin/s        0     7860     8024    10784 
+155885 root     /usr/bin/python3 /usr/bin/s        0     7832     8142    11144 
+155904 root     /usr/bin/python3 /usr/bin/s        0     7944     8259    11092 
+155243 root     ./cli kernel images/4096x40        0   100920   100938   102008 
+155241 root     ./cli kernel images/4096x40        0   108144   108162   109184 
+128734 root     ./cli kernel images/4096x40        0   393316   393332   394512 
+139962 root     ./cli kernel images/4096x40        0   393316   393334   394524 
+144776 root     ./cli kernel images/4096x40        0   393316   393334   394496 
+144779 root     ./cli kernel images/4096x40        0   393316   393334   394488 
+144787 root     ./cli kernel images/4096x40        0   393316   393334   394400 
+128725 root     ./cli kernel images/4096x40        0   393316   393335   394560 
+128732 root     ./cli kernel images/4096x40        0   393316   393335   394488 
+139964 root     ./cli kernel images/4096x40        0   393316   393335   394524 
+144783 root     ./cli kernel images/4096x40        0   393316   393335   394516 
+144785 root     ./cli kernel images/4096x40        0   393316   393335   394516 
+102983 root     ./cli kernel images/4096x40        0   393316   393336   394560 
+140989 root     ./cli kernel images/4096x40        0   393316   393336   394524 
+127741 root     ./cli kernel images/4096x40        0   393316   393337   394560 
+127747 root     ./cli kernel images/4096x40        0   393316   393337   394556 
+139958 root     ./cli kernel images/4096x40        0   393320   393337   394412 
+128736 root     ./cli kernel images/4096x40        0   393320   393338   394468 
+139960 root     ./cli kernel images/4096x40        0   393320   393338   394500 
+139966 root     ./cli kernel images/4096x40        0   393320   393338   394512 
+140993 root     ./cli kernel images/4096x40        0   393320   393338   394500 
+140995 root     ./cli kernel images/4096x40        0   393320   393338   394496 
+140998 root     ./cli kernel images/4096x40        0   393320   393338   394496 
+102981 root     ./cli kernel images/4096x40        0   393320   393339   394448 
+127743 root     ./cli kernel images/4096x40        0   393320   393339   394448 
+128728 root     ./cli kernel images/4096x40        0   393320   393339   394520 
+140991 root     ./cli kernel images/4096x40        0   393320   393339   394476 
+102973 root     ./cli kernel images/4096x40        0   393320   393340   394552 
+102976 root     ./cli kernel images/4096x40        0   393320   393340   394560 
+102985 root     ./cli kernel images/4096x40        0   393320   393340   394504 
+127749 root     ./cli kernel images/4096x40        0   393320   393340   394556 
+127738 root     ./cli kernel images/4096x40        0   393320   393341   394492 
+%CPU %MEM ARGS Sun Oct  4 09:25:41 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2336
+ 2.4  2.9 ./cli kernel images/4096x40   0 394164
+ 2.4  2.9 ./cli kernel images/4096x40   1 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394140
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394136
+ 2.4  2.9 ./cli kernel images/4096x40   0 394188
+ 2.4  2.9 ./cli kernel images/4096x40   1 394176
+ 2.4  2.9 ./cli kernel images/4096x40   1 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394180
+ 2.4  2.9 ./cli kernel images/4096x40   1 394160
+ 2.4  2.9 ./cli kernel images/4096x40   1 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394180
+ 2.4  2.9 ./cli kernel images/4096x40   0 394200
+ 2.4  2.9 ./cli kernel images/4096x40   1 394140
+ 2.5  2.9 ./cli kernel images/4096x40   0 394172
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 2.8  2.9 ./cli kernel images/4096x40   1 394156
+ 2.8  2.9 ./cli kernel images/4096x40   1 394168
+ 2.8  2.9 ./cli kernel images/4096x40   0 394184
+ 2.8  2.9 ./cli kernel images/4096x40   1 394156
+ 3.0  2.9 ./cli kernel images/4096x40   1 394200
+ 3.0  2.9 ./cli kernel images/4096x40   0 394168
+ 3.0  2.9 ./cli kernel images/4096x40   0 394152
+ 3.0  2.9 ./cli kernel images/4096x40   1 394168
+ 3.0  2.9 ./cli kernel images/4096x40   0 394136
+ 3.1  2.9 ./cli kernel images/4096x40   0 394140
+ 3.1  2.9 ./cli kernel images/4096x40   0 394168
+ 3.1  2.9 ./cli kernel images/4096x40   1 394120
+ 3.1  2.9 ./cli kernel images/4096x40   0 394160
+ 3.1  2.9 ./cli kernel images/4096x40   0 394160
+ 8.0  0.7 ./cli kernel images/4096x40   1 104904
+ 8.3  0.8 ./cli kernel images/4096x40   1 109600
+  PID User     Command                         Swap      USS      PSS      RSS 
+155918 ?        ?                                  0     7836     7967    10372 
+155931 root     /usr/bin/python3 /usr/bin/s        0     7672     8318    14004 
+155955 root     /usr/bin/python3 /usr/bin/s        0     7676     8319    14068 
+155951 root     /usr/bin/python3 /usr/bin/s        0     7672     8321    14064 
+155942 root     /usr/bin/python3 /usr/bin/s        0     7680     8342    14104 
+155964 root     /usr/bin/python3 /usr/bin/s        0     7712     8418    14244 
+155944 root     /usr/bin/python3 /usr/bin/s        0     7864     8564    14384 
+155243 root     ./cli kernel images/4096x40        0   108404   108417   109248 
+155241 root     ./cli kernel images/4096x40        0   115540   115553   116356 
+128734 root     ./cli kernel images/4096x40        0   393316   393328   394168 
+139962 root     ./cli kernel images/4096x40        0   393316   393328   394160 
+139964 root     ./cli kernel images/4096x40        0   393316   393328   394168 
+102983 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+127741 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+127747 root     ./cli kernel images/4096x40        0   393316   393329   394160 
+128725 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+128732 root     ./cli kernel images/4096x40        0   393316   393329   394148 
+140989 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+144776 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+144779 root     ./cli kernel images/4096x40        0   393316   393329   394184 
+144783 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+144785 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+144787 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+128736 root     ./cli kernel images/4096x40        0   393320   393332   394132 
+139958 root     ./cli kernel images/4096x40        0   393320   393332   394136 
+139960 root     ./cli kernel images/4096x40        0   393320   393332   394188 
+139966 root     ./cli kernel images/4096x40        0   393320   393332   394176 
+102973 root     ./cli kernel images/4096x40        0   393320   393333   394168 
+102976 root     ./cli kernel images/4096x40        0   393320   393333   394164 
+102981 root     ./cli kernel images/4096x40        0   393320   393333   394140 
+102985 root     ./cli kernel images/4096x40        0   393320   393333   394136 
+127743 root     ./cli kernel images/4096x40        0   393320   393333   394136 
+127749 root     ./cli kernel images/4096x40        0   393320   393333   394160 
+128728 root     ./cli kernel images/4096x40        0   393320   393333   394200 
+140993 root     ./cli kernel images/4096x40        0   393320   393333   394172 
+140995 root     ./cli kernel images/4096x40        0   393320   393333   394180 
+140998 root     ./cli kernel images/4096x40        0   393320   393333   394180 
+127738 root     ./cli kernel images/4096x40        0   393320   393334   394120 
+140991 root     ./cli kernel images/4096x40        0   393320   393334   394200 
+%CPU %MEM ARGS Sun Oct  4 09:25:46 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2184
+ 0.0  0.0 grep --color=auto ./cli       0  2268
+ 2.4  2.9 ./cli kernel images/4096x40   0 394164
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394136
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   1 394132
+ 2.4  2.9 ./cli kernel images/4096x40   0 394188
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394176
+ 2.4  2.9 ./cli kernel images/4096x40   0 394180
+ 2.4  2.9 ./cli kernel images/4096x40   0 394160
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394180
+ 2.4  2.9 ./cli kernel images/4096x40   0 394200
+ 2.4  2.9 ./cli kernel images/4096x40   0 394136
+ 2.4  2.9 ./cli kernel images/4096x40   0 394172
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 2.7  2.9 ./cli kernel images/4096x40   0 394168
+ 2.7  2.9 ./cli kernel images/4096x40   1 394184
+ 2.8  2.9 ./cli kernel images/4096x40   0 394156
+ 3.0  2.9 ./cli kernel images/4096x40   0 394200
+ 3.0  2.9 ./cli kernel images/4096x40   1 394168
+ 3.0  2.9 ./cli kernel images/4096x40   0 394144
+ 3.0  2.9 ./cli kernel images/4096x40   0 394168
+ 3.0  2.9 ./cli kernel images/4096x40   0 394132
+ 3.1  2.9 ./cli kernel images/4096x40   0 394136
+ 3.1  2.9 ./cli kernel images/4096x40   0 394168
+ 3.1  2.9 ./cli kernel images/4096x40   1 394112
+ 3.1  2.9 ./cli kernel images/4096x40   0 394160
+ 3.1  2.9 ./cli kernel images/4096x40   0 394160
+ 7.8  0.8 ./cli kernel images/4096x40   0 110504
+ 8.3  0.8 ./cli kernel images/4096x40   1 117920
+  PID User     Command                         Swap      USS      PSS      RSS 
+155986 root     /usr/bin/python3 /usr/bin/s        0     7684     8331    14060 
+156007 root     /usr/bin/python3 /usr/bin/s        0     7692     8378    14224 
+155995 root     /usr/bin/python3 /usr/bin/s        0     7832     8491    14312 
+155243 root     ./cli kernel images/4096x40        0   116292   116305   117136 
+155241 root     ./cli kernel images/4096x40        0   124216   124229   125032 
+128725 root     ./cli kernel images/4096x40        0   393316   393328   394168 
+128734 root     ./cli kernel images/4096x40        0   393316   393328   394168 
+139962 root     ./cli kernel images/4096x40        0   393316   393328   394160 
+139964 root     ./cli kernel images/4096x40        0   393316   393328   394168 
+102983 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+127741 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+127747 root     ./cli kernel images/4096x40        0   393316   393329   394160 
+128732 root     ./cli kernel images/4096x40        0   393316   393329   394144 
+140989 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+144776 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+144779 root     ./cli kernel images/4096x40        0   393316   393329   394184 
+144783 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+144785 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+144787 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+127749 root     ./cli kernel images/4096x40        0   393320   393332   394160 
+128736 root     ./cli kernel images/4096x40        0   393320   393332   394132 
+139958 root     ./cli kernel images/4096x40        0   393320   393332   394136 
+139960 root     ./cli kernel images/4096x40        0   393320   393332   394188 
+139966 root     ./cli kernel images/4096x40        0   393320   393332   394176 
+102973 root     ./cli kernel images/4096x40        0   393320   393333   394168 
+102976 root     ./cli kernel images/4096x40        0   393320   393333   394164 
+102981 root     ./cli kernel images/4096x40        0   393320   393333   394136 
+102985 root     ./cli kernel images/4096x40        0   393320   393333   394132 
+127738 root     ./cli kernel images/4096x40        0   393320   393333   394112 
+127743 root     ./cli kernel images/4096x40        0   393320   393333   394136 
+128728 root     ./cli kernel images/4096x40        0   393320   393333   394200 
+140993 root     ./cli kernel images/4096x40        0   393320   393333   394172 
+140995 root     ./cli kernel images/4096x40        0   393320   393333   394180 
+140998 root     ./cli kernel images/4096x40        0   393320   393333   394180 
+140991 root     ./cli kernel images/4096x40        0   393320   393334   394200 
+%CPU %MEM ARGS Sun Oct  4 09:25:52 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2252
+ 2.4  2.9 ./cli kernel images/4096x40   0 394164
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394136
+ 2.4  2.9 ./cli kernel images/4096x40   1 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394132
+ 2.4  2.9 ./cli kernel images/4096x40   0 394188
+ 2.4  2.9 ./cli kernel images/4096x40   0 394176
+ 2.4  2.9 ./cli kernel images/4096x40   1 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394180
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394160
+ 2.4  2.9 ./cli kernel images/4096x40   1 394180
+ 2.4  2.9 ./cli kernel images/4096x40   0 394200
+ 2.4  2.9 ./cli kernel images/4096x40   0 394136
+ 2.4  2.9 ./cli kernel images/4096x40   0 394172
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 2.7  2.9 ./cli kernel images/4096x40   0 394168
+ 2.7  2.9 ./cli kernel images/4096x40   0 394184
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 3.0  2.9 ./cli kernel images/4096x40   0 394200
+ 3.0  2.9 ./cli kernel images/4096x40   0 394168
+ 3.0  2.9 ./cli kernel images/4096x40   0 394144
+ 3.0  2.9 ./cli kernel images/4096x40   0 394168
+ 3.0  2.9 ./cli kernel images/4096x40   0 394132
+ 3.1  2.9 ./cli kernel images/4096x40   0 394136
+ 3.1  2.9 ./cli kernel images/4096x40   0 394168
+ 3.1  2.9 ./cli kernel images/4096x40   0 394112
+ 3.1  2.9 ./cli kernel images/4096x40   1 394160
+ 3.1  2.9 ./cli kernel images/4096x40   0 394160
+ 7.8  0.8 ./cli kernel images/4096x40   1 118884
+ 8.3  0.9 ./cli kernel images/4096x40   1 127556
+  PID User     Command                         Swap      USS      PSS      RSS 
+156068 root     /usr/bin/python3 /usr/bin/s        0     7684     8364    14168 
+156067 root     /usr/bin/python3 /usr/bin/s        0     7712     8390    14192 
+156057 root     /usr/bin/python3 /usr/bin/s        0     7728     8446    14248 
+156076 root     /usr/bin/python3 /usr/bin/s        0     7772     8488    14216 
+156070 root     /usr/bin/python3 /usr/bin/s        0     7968     8787    14836 
+155243 root     ./cli kernel images/4096x40        0   131976   131989   132820 
+155241 root     ./cli kernel images/4096x40        0   133144   133157   133960 
+128725 root     ./cli kernel images/4096x40        0   393316   393328   394168 
+128734 root     ./cli kernel images/4096x40        0   393316   393328   394168 
+139962 root     ./cli kernel images/4096x40        0   393316   393328   394160 
+139964 root     ./cli kernel images/4096x40        0   393316   393328   394168 
+102983 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+127741 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+127747 root     ./cli kernel images/4096x40        0   393316   393329   394160 
+128732 root     ./cli kernel images/4096x40        0   393316   393329   394144 
+140989 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+144776 root     ./cli kernel images/4096x40        0   393316   393329   394168 
+144779 root     ./cli kernel images/4096x40        0   393316   393329   394184 
+144783 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+144785 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+144787 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+128736 root     ./cli kernel images/4096x40        0   393320   393332   394132 
+139958 root     ./cli kernel images/4096x40        0   393320   393332   394136 
+139960 root     ./cli kernel images/4096x40        0   393320   393332   394188 
+139966 root     ./cli kernel images/4096x40        0   393320   393332   394176 
+102973 root     ./cli kernel images/4096x40        0   393320   393333   394168 
+102976 root     ./cli kernel images/4096x40        0   393320   393333   394164 
+102981 root     ./cli kernel images/4096x40        0   393320   393333   394136 
+102985 root     ./cli kernel images/4096x40        0   393320   393333   394132 
+127738 root     ./cli kernel images/4096x40        0   393320   393333   394112 
+127743 root     ./cli kernel images/4096x40        0   393320   393333   394136 
+127749 root     ./cli kernel images/4096x40        0   393320   393333   394160 
+128728 root     ./cli kernel images/4096x40        0   393320   393333   394200 
+140993 root     ./cli kernel images/4096x40        0   393320   393333   394172 
+140995 root     ./cli kernel images/4096x40        0   393320   393333   394180 
+140998 root     ./cli kernel images/4096x40        0   393320   393333   394180 
+140991 root     ./cli kernel images/4096x40        0   393320   393334   394200 
+%CPU %MEM ARGS Sun Oct  4 09:25:58 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2328
+ 2.4  2.9 ./cli kernel images/4096x40   0 394164
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394136
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394132
+ 2.4  2.9 ./cli kernel images/4096x40   0 394188
+ 2.4  2.9 ./cli kernel images/4096x40   0 394176
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394180
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.4  2.9 ./cli kernel images/4096x40   0 394160
+ 2.4  2.9 ./cli kernel images/4096x40   0 394180
+ 2.4  2.9 ./cli kernel images/4096x40   1 394200
+ 2.4  2.9 ./cli kernel images/4096x40   0 394136
+ 2.4  2.9 ./cli kernel images/4096x40   0 394172
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 2.7  2.9 ./cli kernel images/4096x40   0 394168
+ 2.7  2.9 ./cli kernel images/4096x40   0 394184
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 3.0  2.9 ./cli kernel images/4096x40   0 394200
+ 3.0  2.9 ./cli kernel images/4096x40   0 394168
+ 3.0  2.9 ./cli kernel images/4096x40   0 394144
+ 3.0  2.9 ./cli kernel images/4096x40   0 394168
+ 3.0  2.9 ./cli kernel images/4096x40   0 394132
+ 3.1  2.9 ./cli kernel images/4096x40   1 394136
+ 3.1  2.9 ./cli kernel images/4096x40   0 394168
+ 3.1  2.9 ./cli kernel images/4096x40   0 394112
+ 3.1  2.9 ./cli kernel images/4096x40   0 394160
+ 3.1  2.9 ./cli kernel images/4096x40   0 394160
+ 8.3  1.0 ./cli kernel images/4096x40   0 135576
+ 8.3  1.0 ./cli kernel images/4096x40   0 134484
+  PID User     Command                         Swap      USS      PSS      RSS 
+156142 root     /usr/bin/python3 /usr/bin/s        0     7660     7882    10704 
+156115 root     /usr/bin/python3 /usr/bin/s        0     7684     7906    10728 
+156126 root     /usr/bin/python3 /usr/bin/s        0     7692     7920    10740 
+156135 root     /usr/bin/python3 /usr/bin/s        0     7864     8090    10928 
+156151 root     /usr/bin/python3 /usr/bin/s        0     7788     8230    11356 
+156130 root     /usr/bin/python3 /usr/bin/s        0     8136     8558    11644 
+155243 root     ./cli kernel images/4096x40        0   138008   138021   138852 
+155241 root     ./cli kernel images/4096x40        0   143348   143361   144148 
+128725 root     ./cli kernel images/4096x40        0   393316   393328   394156 
+128732 root     ./cli kernel images/4096x40        0   393316   393328   394120 
+128734 root     ./cli kernel images/4096x40        0   393316   393328   394164 
+139962 root     ./cli kernel images/4096x40        0   393316   393328   394156 
+139964 root     ./cli kernel images/4096x40        0   393316   393328   394156 
+127741 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+127747 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+140989 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+144776 root     ./cli kernel images/4096x40        0   393316   393329   394164 
+144779 root     ./cli kernel images/4096x40        0   393316   393329   394172 
+144783 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+144785 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+144787 root     ./cli kernel images/4096x40        0   393316   393329   394156 
+102983 root     ./cli kernel images/4096x40        0   393316   393330   394164 
+128736 root     ./cli kernel images/4096x40        0   393320   393331   394116 
+139958 root     ./cli kernel images/4096x40        0   393320   393331   394116 
+128728 root     ./cli kernel images/4096x40        0   393320   393332   394180 
+139960 root     ./cli kernel images/4096x40        0   393320   393332   394176 
+139966 root     ./cli kernel images/4096x40        0   393320   393332   394172 
+102973 root     ./cli kernel images/4096x40        0   393320   393333   394168 
+102976 root     ./cli kernel images/4096x40        0   393320   393333   394164 
+102981 root     ./cli kernel images/4096x40        0   393320   393333   394136 
+102985 root     ./cli kernel images/4096x40        0   393320   393333   394128 
+127738 root     ./cli kernel images/4096x40        0   393320   393333   394108 
+127743 root     ./cli kernel images/4096x40        0   393320   393333   394136 
+127749 root     ./cli kernel images/4096x40        0   393320   393333   394160 
+140991 root     ./cli kernel images/4096x40        0   393320   393333   394180 
+140993 root     ./cli kernel images/4096x40        0   393320   393333   394168 
+140995 root     ./cli kernel images/4096x40        0   393320   393333   394172 
+140998 root     ./cli kernel images/4096x40        0   393320   393333   394172 
+%CPU %MEM ARGS Sun Oct  4 09:26:03 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2208
+ 0.0  0.0 grep --color=auto ./cli       1  2212
+ 0.0  0.0 grep --color=auto ./cli       1  2208
+ 0.0  0.0 grep --color=auto ./cli       1  2208
+ 2.4  2.9 ./cli kernel images/4096x40   1 394160
+ 2.4  2.9 ./cli kernel images/4096x40   1 394168
+ 2.4  2.9 ./cli kernel images/4096x40   1 394116
+ 2.4  2.9 ./cli kernel images/4096x40   1 394156
+ 2.4  2.9 ./cli kernel images/4096x40   0 394116
+ 2.4  2.9 ./cli kernel images/4096x40   1 394176
+ 2.4  2.9 ./cli kernel images/4096x40   1 394172
+ 2.4  2.9 ./cli kernel images/4096x40   1 394156
+ 2.4  2.9 ./cli kernel images/4096x40   0 394172
+ 2.4  2.9 ./cli kernel images/4096x40   0 394156
+ 2.4  2.9 ./cli kernel images/4096x40   1 394156
+ 2.4  2.9 ./cli kernel images/4096x40   0 394172
+ 2.4  2.9 ./cli kernel images/4096x40   1 394180
+ 2.4  2.9 ./cli kernel images/4096x40   1 394116
+ 2.4  2.9 ./cli kernel images/4096x40   0 394168
+ 2.7  2.9 ./cli kernel images/4096x40   1 394156
+ 2.7  2.9 ./cli kernel images/4096x40   1 394156
+ 2.7  2.9 ./cli kernel images/4096x40   0 394164
+ 2.7  2.9 ./cli kernel images/4096x40   1 394172
+ 2.7  2.9 ./cli kernel images/4096x40   0 394156
+ 3.0  2.9 ./cli kernel images/4096x40   1 394180
+ 3.0  2.9 ./cli kernel images/4096x40   1 394164
+ 3.0  2.9 ./cli kernel images/4096x40   1 394120
+ 3.0  2.9 ./cli kernel images/4096x40   1 394156
+ 3.0  2.9 ./cli kernel images/4096x40   0 394116
+ 3.1  2.9 ./cli kernel images/4096x40   1 394116
+ 3.1  2.9 ./cli kernel images/4096x40   1 394156
+ 3.1  2.9 ./cli kernel images/4096x40   1 394076
+ 3.1  2.9 ./cli kernel images/4096x40   1 394156
+ 3.1  2.9 ./cli kernel images/4096x40   0 394160
+ 8.1  1.0 ./cli kernel images/4096x40   0 140788
+ 8.5  1.1 ./cli kernel images/4096x40   0 147920
+  PID User     Command                         Swap      USS      PSS      RSS 
+156178 root     /usr/bin/python3 /usr/bin/s        0     7688     7814     8784 
+156199 root     /usr/bin/python3 /usr/bin/s        0     7704     7827     8772 
+156179 root     /usr/bin/python3 /usr/bin/s        0     7932     8174     9400 
+156200 root     /usr/bin/python3 /usr/bin/s        0     8304     8916    10736 
+155243 root     ./cli kernel images/4096x40        0   144136   144139   144292 
+155241 root     ./cli kernel images/4096x40        0   155124   155127   155272 
+128725 root     ./cli kernel images/4096x40        0   393316   393318   393492 
+128732 root     ./cli kernel images/4096x40        0   393316   393318   393464 
+128734 root     ./cli kernel images/4096x40        0   393316   393318   393476 
+139962 root     ./cli kernel images/4096x40        0   393316   393318   393472 
+139964 root     ./cli kernel images/4096x40        0   393316   393318   393468 
+102983 root     ./cli kernel images/4096x40        0   393316   393319   393492 
+127741 root     ./cli kernel images/4096x40        0   393316   393319   393492 
+127747 root     ./cli kernel images/4096x40        0   393316   393319   393496 
+140989 root     ./cli kernel images/4096x40        0   393316   393319   393468 
+144776 root     ./cli kernel images/4096x40        0   393316   393319   393472 
+144779 root     ./cli kernel images/4096x40        0   393316   393319   393472 
+144783 root     ./cli kernel images/4096x40        0   393316   393319   393472 
+144785 root     ./cli kernel images/4096x40        0   393316   393319   393472 
+144787 root     ./cli kernel images/4096x40        0   393316   393319   393472 
+128728 root     ./cli kernel images/4096x40        0   393320   393322   393496 
+128736 root     ./cli kernel images/4096x40        0   393320   393322   393468 
+139958 root     ./cli kernel images/4096x40        0   393320   393322   393468 
+139960 root     ./cli kernel images/4096x40        0   393320   393322   393476 
+139966 root     ./cli kernel images/4096x40        0   393320   393322   393480 
+102981 root     ./cli kernel images/4096x40        0   393320   393323   393484 
+102985 root     ./cli kernel images/4096x40        0   393320   393323   393484 
+127738 root     ./cli kernel images/4096x40        0   393320   393323   393484 
+127743 root     ./cli kernel images/4096x40        0   393320   393323   393484 
+127749 root     ./cli kernel images/4096x40        0   393320   393323   393500 
+140991 root     ./cli kernel images/4096x40        0   393320   393323   393476 
+140993 root     ./cli kernel images/4096x40        0   393320   393323   393480 
+140995 root     ./cli kernel images/4096x40        0   393320   393323   393476 
+140998 root     ./cli kernel images/4096x40        0   393320   393323   393476 
+102973 root     ./cli kernel images/4096x40        0   393320   393325   393712 
+102976 root     ./cli kernel images/4096x40        0   393320   393325   393680 
+%CPU %MEM ARGS Sun Oct  4 09:26:10 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2340
+ 0.0  0.0 grep --color=auto ./cli       1  2336
+ 0.0  0.0 grep --color=auto ./cli       1  2336
+ 0.0  0.0 grep --color=auto ./cli       1  2344
+ 2.4  2.9 ./cli kernel images/4096x40   0 393472
+ 2.4  2.9 ./cli kernel images/4096x40   0 393476
+ 2.4  2.9 ./cli kernel images/4096x40   0 393468
+ 2.4  2.9 ./cli kernel images/4096x40   0 393464
+ 2.4  2.9 ./cli kernel images/4096x40   0 393468
+ 2.4  2.9 ./cli kernel images/4096x40   0 393476
+ 2.4  2.9 ./cli kernel images/4096x40   0 393476
+ 2.4  2.9 ./cli kernel images/4096x40   0 393464
+ 2.4  2.9 ./cli kernel images/4096x40   0 393476
+ 2.4  2.9 ./cli kernel images/4096x40   0 393464
+ 2.4  2.9 ./cli kernel images/4096x40   1 393468
+ 2.4  2.9 ./cli kernel images/4096x40   0 393476
+ 2.4  2.9 ./cli kernel images/4096x40   0 393476
+ 2.4  2.9 ./cli kernel images/4096x40   0 393468
+ 2.4  2.9 ./cli kernel images/4096x40   0 393476
+ 2.7  2.9 ./cli kernel images/4096x40   0 393468
+ 2.7  2.9 ./cli kernel images/4096x40   0 393468
+ 2.7  2.9 ./cli kernel images/4096x40   0 393472
+ 2.7  2.9 ./cli kernel images/4096x40   0 393472
+ 2.7  2.9 ./cli kernel images/4096x40   0 393468
+ 3.0  2.9 ./cli kernel images/4096x40   0 393476
+ 3.0  2.9 ./cli kernel images/4096x40   0 393472
+ 3.0  2.9 ./cli kernel images/4096x40   0 393464
+ 3.0  2.9 ./cli kernel images/4096x40   0 393464
+ 3.0  2.9 ./cli kernel images/4096x40   0 393468
+ 3.1  2.9 ./cli kernel images/4096x40   0 393468
+ 3.1  2.9 ./cli kernel images/4096x40   0 393464
+ 3.1  2.9 ./cli kernel images/4096x40   1 393468
+ 3.1  2.9 ./cli kernel images/4096x40   0 393468
+ 3.1  2.9 ./cli kernel images/4096x40   0 393472
+ 8.0  1.1 ./cli kernel images/4096x40   1 147960
+ 8.6  1.2 ./cli kernel images/4096x40   1 159504
+  PID User     Command                         Swap      USS      PSS      RSS 
+156245 root     /usr/bin/python3 /usr/bin/s        0     7668     7742     8652 
+156243 root     /usr/bin/python3 /usr/bin/s        0     7672     7746     8652 
+156228 root     /usr/bin/python3 /usr/bin/s        0     7672     7747     8668 
+156253 root     /usr/bin/python3 /usr/bin/s        0     7676     7750     8660 
+156244 root     /usr/bin/python3 /usr/bin/s        0     7680     7754     8664 
+156259 root     /usr/bin/python3 /usr/bin/s        0     7688     7762     8672 
+156256 root     /usr/bin/python3 /usr/bin/s        0     7864     7938     8848 
+156262 root                                        0     8480     8966    10380 
+155243 root     ./cli kernel images/4096x40        0   152552   152554   152684 
+155241 root     ./cli kernel images/4096x40        0   163020   163022   163148 
+127741 root     ./cli kernel images/4096x40        0   393316   393318   393464 
+128725 root     ./cli kernel images/4096x40        0   393316   393318   393464 
+128732 root     ./cli kernel images/4096x40        0   393316   393318   393464 
+128734 root     ./cli kernel images/4096x40        0   393316   393318   393472 
+139962 root     ./cli kernel images/4096x40        0   393316   393318   393468 
+139964 root     ./cli kernel images/4096x40        0   393316   393318   393464 
+144776 root     ./cli kernel images/4096x40        0   393316   393318   393452 
+144779 root     ./cli kernel images/4096x40        0   393316   393318   393452 
+144783 root     ./cli kernel images/4096x40        0   393316   393318   393448 
+144785 root     ./cli kernel images/4096x40        0   393316   393318   393448 
+144787 root     ./cli kernel images/4096x40        0   393316   393318   393448 
+102983 root     ./cli kernel images/4096x40        0   393316   393319   393464 
+127747 root     ./cli kernel images/4096x40        0   393316   393319   393468 
+140989 root     ./cli kernel images/4096x40        0   393316   393319   393464 
+127743 root     ./cli kernel images/4096x40        0   393320   393322   393468 
+128728 root     ./cli kernel images/4096x40        0   393320   393322   393476 
+128736 root     ./cli kernel images/4096x40        0   393320   393322   393468 
+139958 root     ./cli kernel images/4096x40        0   393320   393322   393468 
+139960 root     ./cli kernel images/4096x40        0   393320   393322   393476 
+139966 root     ./cli kernel images/4096x40        0   393320   393322   393476 
+140998 root     ./cli kernel images/4096x40        0   393320   393322   393460 
+102973 root     ./cli kernel images/4096x40        0   393320   393323   393476 
+102976 root     ./cli kernel images/4096x40        0   393320   393323   393472 
+102981 root     ./cli kernel images/4096x40        0   393320   393323   393468 
+102985 root     ./cli kernel images/4096x40        0   393320   393323   393468 
+127738 root     ./cli kernel images/4096x40        0   393320   393323   393468 
+127749 root     ./cli kernel images/4096x40        0   393320   393323   393472 
+140991 root     ./cli kernel images/4096x40        0   393320   393323   393476 
+140993 root     ./cli kernel images/4096x40        0   393320   393323   393476 
+140995 root     ./cli kernel images/4096x40        0   393320   393323   393476 
+%CPU %MEM ARGS Sun Oct  4 09:26:16 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2244
+ 0.0  0.0 grep --color=auto ./cli       1  2176
+ 0.0  0.0 grep --color=auto ./cli       1  2156
+ 0.0  0.0 grep --color=auto ./cli       0  2208
+ 2.4  2.9 ./cli kernel images/4096x40   0 393452
+ 2.4  2.9 ./cli kernel images/4096x40   0 393456
+ 2.4  2.9 ./cli kernel images/4096x40   0 393448
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393456
+ 2.4  2.9 ./cli kernel images/4096x40   0 393448
+ 2.4  2.9 ./cli kernel images/4096x40   0 393456
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393456
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393448
+ 2.4  2.9 ./cli kernel images/4096x40   0 393456
+ 2.4  2.9 ./cli kernel images/4096x40   0 393456
+ 2.4  2.9 ./cli kernel images/4096x40   0 393448
+ 2.4  2.9 ./cli kernel images/4096x40   0 393456
+ 2.7  2.9 ./cli kernel images/4096x40   0 393448
+ 2.7  2.9 ./cli kernel images/4096x40   0 393448
+ 2.7  2.9 ./cli kernel images/4096x40   0 393452
+ 2.7  2.9 ./cli kernel images/4096x40   0 393452
+ 2.7  2.9 ./cli kernel images/4096x40   0 393448
+ 2.9  2.9 ./cli kernel images/4096x40   0 393456
+ 3.0  2.9 ./cli kernel images/4096x40   0 393452
+ 3.0  2.9 ./cli kernel images/4096x40   0 393444
+ 3.0  2.9 ./cli kernel images/4096x40   0 393444
+ 3.0  2.9 ./cli kernel images/4096x40   0 393448
+ 3.0  2.9 ./cli kernel images/4096x40   0 393448
+ 3.1  2.9 ./cli kernel images/4096x40   0 393444
+ 3.1  2.9 ./cli kernel images/4096x40   0 393448
+ 3.1  2.9 ./cli kernel images/4096x40   0 393448
+ 3.1  2.9 ./cli kernel images/4096x40   0 393452
+ 8.0  1.1 ./cli kernel images/4096x40   1 156436
+ 8.5  1.2 ./cli kernel images/4096x40   1 167240
+  PID User     Command                         Swap      USS      PSS      RSS 
+156296 root     /usr/bin/python3 /usr/bin/s        0     7692     7821     8680 
+156305 root     /usr/bin/python3 /usr/bin/s        0     7704     7834     8696 
+156309 root     /usr/bin/python3 /usr/bin/s        0     7932     9081    11700 
+156299 root     /usr/bin/python3 /usr/bin/s        0     8636     9754    11732 
+155243 root     ./cli kernel images/4096x40        0   166896   166898   167020 
+155241 root     ./cli kernel images/4096x40        0   174168   174170   174292 
+128725 root     ./cli kernel images/4096x40        0   393316   393317   393440 
+128732 root     ./cli kernel images/4096x40        0   393316   393317   393440 
+128734 root     ./cli kernel images/4096x40        0   393316   393317   393440 
+139962 root     ./cli kernel images/4096x40        0   393316   393317   393440 
+139964 root     ./cli kernel images/4096x40        0   393316   393317   393440 
+102983 root     ./cli kernel images/4096x40        0   393316   393318   393440 
+127741 root     ./cli kernel images/4096x40        0   393316   393318   393440 
+127747 root     ./cli kernel images/4096x40        0   393316   393318   393440 
+140989 root     ./cli kernel images/4096x40        0   393316   393318   393440 
+144776 root     ./cli kernel images/4096x40        0   393316   393318   393440 
+144779 root     ./cli kernel images/4096x40        0   393316   393318   393440 
+144783 root     ./cli kernel images/4096x40        0   393316   393318   393440 
+144785 root     ./cli kernel images/4096x40        0   393316   393318   393440 
+144787 root     ./cli kernel images/4096x40        0   393316   393318   393440 
+102976 root     ./cli kernel images/4096x40        0   393320   393321   393436 
+102981 root     ./cli kernel images/4096x40        0   393320   393321   393436 
+128728 root     ./cli kernel images/4096x40        0   393320   393321   393444 
+128736 root     ./cli kernel images/4096x40        0   393320   393321   393444 
+139958 root     ./cli kernel images/4096x40        0   393320   393321   393444 
+139960 root     ./cli kernel images/4096x40        0   393320   393321   393444 
+139966 root     ./cli kernel images/4096x40        0   393320   393321   393444 
+102985 root     ./cli kernel images/4096x40        0   393320   393322   393444 
+127738 root     ./cli kernel images/4096x40        0   393320   393322   393444 
+127743 root     ./cli kernel images/4096x40        0   393320   393322   393444 
+127749 root     ./cli kernel images/4096x40        0   393320   393322   393444 
+140991 root     ./cli kernel images/4096x40        0   393320   393322   393444 
+140993 root     ./cli kernel images/4096x40        0   393320   393322   393444 
+140995 root     ./cli kernel images/4096x40        0   393320   393322   393444 
+140998 root     ./cli kernel images/4096x40        0   393320   393322   393444 
+102973 root     ./cli kernel images/4096x40        0   393328   393329   393444 
+%CPU %MEM ARGS Sun Oct  4 09:26:23 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2272
+ 0.0  0.0 grep --color=auto ./cli       1  2328
+ 2.3  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   1 393440
+ 2.4  2.9 ./cli kernel images/4096x40   1 393444
+ 2.4  2.9 ./cli kernel images/4096x40   1 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393440
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   1 393440
+ 2.4  2.9 ./cli kernel images/4096x40   1 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393440
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.4  2.9 ./cli kernel images/4096x40   0 393444
+ 2.7  2.9 ./cli kernel images/4096x40   0 393440
+ 2.7  2.9 ./cli kernel images/4096x40   0 393440
+ 2.7  2.9 ./cli kernel images/4096x40   0 393440
+ 2.7  2.9 ./cli kernel images/4096x40   0 393440
+ 2.7  2.9 ./cli kernel images/4096x40   0 393440
+ 2.9  2.9 ./cli kernel images/4096x40   0 393444
+ 2.9  2.9 ./cli kernel images/4096x40   1 393440
+ 2.9  2.9 ./cli kernel images/4096x40   0 393440
+ 3.0  2.9 ./cli kernel images/4096x40   0 393440
+ 3.0  2.9 ./cli kernel images/4096x40   0 393444
+ 3.0  2.9 ./cli kernel images/4096x40   1 393444
+ 3.1  2.9 ./cli kernel images/4096x40   0 393440
+ 3.1  2.9 ./cli kernel images/4096x40   0 393444
+ 3.1  2.9 ./cli kernel images/4096x40   1 393440
+ 3.1  2.9 ./cli kernel images/4096x40   0 393444
+ 8.4  1.3 ./cli kernel images/4096x40   0 175660
+ 8.5  1.3 ./cli kernel images/4096x40   1 179400
+  PID User     Command                         Swap      USS      PSS      RSS 
+156362 root     /usr/bin/python3 /usr/bin/s        0     7684     7780     8608 
+156364 root     /usr/bin/python3 /usr/bin/s        0     7864     7965     8820 
+156360 root     /usr/bin/python3 /usr/bin/s        0     7864     8011     9044 
+156359 root     /usr/bin/python3 /usr/bin/s        0     7864     8017     9036 
+156366 root     /usr/bin/python3 /usr/bin/s        0     7860     8022     9104 
+156365 root     /usr/bin/python3 /usr/bin/s        0     7868     8024     9088 
+156361 root     /usr/bin/python3 /usr/bin/s        0     7864     8028     9088 
+156363 root     /usr/bin/python3 /usr/bin/s        0     7988     8115     9052 
+155243 root     ./cli kernel images/4096x40        0   181288   181288   181304 
+155241 root     ./cli kernel images/4096x40        0   184772   184772   184788 
+102983 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+127741 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+127747 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+128725 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+128732 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+128734 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+139962 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+139964 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+140989 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+144776 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+144779 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+144783 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+144785 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+144787 root     ./cli kernel images/4096x40        0   393316   393316   393332 
+102973 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+102976 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+102981 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+102985 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+127738 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+127743 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+127749 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+128728 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+128736 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+139958 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+139960 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+139966 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+140991 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+140993 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+140995 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+140998 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+%CPU %MEM ARGS Sun Oct  4 09:27:47 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2216
+ 0.0  0.0 grep --color=auto ./cli       0  2268
+ 0.0  0.0 grep --color=auto ./cli       1  2212
+ 0.0  0.0 grep --color=auto ./cli       0  2272
+ 0.0  0.0 grep --color=auto ./cli       1  2332
+ 0.0  0.0 grep --color=auto ./cli       0  2268
+ 0.0  0.0 grep --color=auto ./cli       0  2312
+ 0.0  0.0 grep --color=auto ./cli       1  2268
+ 2.3  2.9 ./cli kernel images/4096x40   1 393396
+ 2.3  2.9 ./cli kernel images/4096x40   0 393396
+ 2.3  2.9 ./cli kernel images/4096x40   0 393396
+ 2.3  2.9 ./cli kernel images/4096x40   0 393392
+ 2.3  2.9 ./cli kernel images/4096x40   0 393392
+ 2.3  2.9 ./cli kernel images/4096x40   0 393396
+ 2.3  2.9 ./cli kernel images/4096x40   1 393396
+ 2.3  2.9 ./cli kernel images/4096x40   0 393392
+ 2.3  2.9 ./cli kernel images/4096x40   0 393396
+ 2.3  2.9 ./cli kernel images/4096x40   0 393396
+ 2.3  2.9 ./cli kernel images/4096x40   0 393396
+ 2.3  2.9 ./cli kernel images/4096x40   0 393396
+ 2.3  2.9 ./cli kernel images/4096x40   0 393396
+ 2.3  2.9 ./cli kernel images/4096x40   1 393392
+ 2.3  2.9 ./cli kernel images/4096x40   0 393396
+ 2.5  2.9 ./cli kernel images/4096x40   0 393384
+ 2.5  2.9 ./cli kernel images/4096x40   0 393384
+ 2.5  2.9 ./cli kernel images/4096x40   0 393392
+ 2.5  2.9 ./cli kernel images/4096x40   0 393392
+ 2.5  2.9 ./cli kernel images/4096x40   0 393384
+ 2.8  2.9 ./cli kernel images/4096x40   0 393396
+ 2.8  2.9 ./cli kernel images/4096x40   0 393392
+ 2.9  2.9 ./cli kernel images/4096x40   1 393392
+ 2.9  2.9 ./cli kernel images/4096x40   0 393392
+ 2.9  2.9 ./cli kernel images/4096x40   0 393396
+ 2.9  2.9 ./cli kernel images/4096x40   0 393396
+ 3.0  2.9 ./cli kernel images/4096x40   0 393392
+ 3.0  2.9 ./cli kernel images/4096x40   1 393396
+ 3.0  2.9 ./cli kernel images/4096x40   0 393392
+ 3.0  2.9 ./cli kernel images/4096x40   0 393396
+ 5.0  1.3 ./cli kernel images/4096x40   0 184344
+ 5.2  1.4 ./cli kernel images/4096x40   1 194352
+  PID User     Command                         Swap      USS      PSS      RSS 
+156459 root     /usr/bin/python3 /usr/bin/s        0     7860     7949     8820 
+156464 root     /usr/bin/python3 /usr/bin/s        0     7860     7949     8820 
+156461 root     /usr/bin/python3 /usr/bin/s        0     8048     8313    10040 
+156462 root     /usr/bin/python3 /usr/bin/s        0     7864     8324    10956 
+156463 root     /usr/bin/python3 /usr/bin/s        0     7868     8356    11088 
+156457 root     /usr/bin/python3 /usr/bin/s        0     7868     8365    10752 
+156460 root     /usr/bin/python3 /usr/bin/s        0     7888     8461    11004 
+156458 root     /usr/bin/python3 /usr/bin/s        0     7940     8467    10844 
+155243 root     ./cli kernel images/4096x40        0   188456   188456   188480 
+155241 root     ./cli kernel images/4096x40        0   267620   267620   267628 
+102983 root     ./cli kernel images/4096x40        0   393316   393316   393320 
+128725 root     ./cli kernel images/4096x40        0   393316   393316   393352 
+128732 root     ./cli kernel images/4096x40        0   393316   393316   393344 
+128734 root     ./cli kernel images/4096x40        0   393316   393316   393348 
+139962 root     ./cli kernel images/4096x40        0   393316   393316   393340 
+139964 root     ./cli kernel images/4096x40        0   393316   393316   393340 
+140989 root     ./cli kernel images/4096x40        0   393316   393316   393340 
+144776 root     ./cli kernel images/4096x40        0   393316   393316   393340 
+144779 root     ./cli kernel images/4096x40        0   393316   393316   393328 
+144783 root     ./cli kernel images/4096x40        0   393316   393316   393340 
+144785 root     ./cli kernel images/4096x40        0   393316   393316   393340 
+144787 root     ./cli kernel images/4096x40        0   393316   393316   393340 
+127747 root     ./cli kernel images/4096x40        0   393316   393317   393352 
+127741 root     ./cli kernel images/4096x40        0   393316   393318   393388 
+102973 root     ./cli kernel images/4096x40        0   393320   393320   393324 
+102981 root     ./cli kernel images/4096x40        0   393320   393320   393324 
+128728 root     ./cli kernel images/4096x40        0   393320   393320   393360 
+128736 root     ./cli kernel images/4096x40        0   393320   393320   393344 
+139958 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+139960 root     ./cli kernel images/4096x40        0   393320   393320   393332 
+139966 root     ./cli kernel images/4096x40        0   393320   393320   393344 
+140991 root     ./cli kernel images/4096x40        0   393320   393320   393332 
+140993 root     ./cli kernel images/4096x40        0   393320   393320   393340 
+140995 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+140998 root     ./cli kernel images/4096x40        0   393320   393320   393336 
+127743 root     ./cli kernel images/4096x40        0   393320   393321   393352 
+127749 root     ./cli kernel images/4096x40        0   393320   393321   393356 
+127738 root     ./cli kernel images/4096x40        0   393320   393323   393396 
+102985 root     ./cli kernel images/4096x40        0   393320   393325   393396 
+102976 root     ./cli kernel images/4096x40        0   393328   393330   393396 
+%CPU %MEM ARGS Sun Oct  4 09:53:27 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2280
+ 0.0  0.0 grep --color=auto ./cli       0  2304
+ 0.0  0.0 grep --color=auto ./cli       0  2268
+ 0.0  0.0 grep --color=auto ./cli       0  2292
+ 0.0  0.0 grep --color=auto ./cli       0  2288
+ 0.0  0.0 grep --color=auto ./cli       1  2332
+ 0.0  0.0 grep --color=auto ./cli       0  2340
+ 0.0  0.0 grep --color=auto ./cli       0  2272
+ 0.5  1.4 ./cli kernel images/4096x40   0 191700
+ 0.8  2.4 ./cli kernel images/4096x40   1 321940
+ 1.0  2.9 ./cli kernel images/4096x40   0 393340
+ 1.0  2.9 ./cli kernel images/4096x40   0 393388
+ 1.0  2.9 ./cli kernel images/4096x40   1 393344
+ 1.0  2.9 ./cli kernel images/4096x40   0 393388
+ 1.0  2.9 ./cli kernel images/4096x40   0 393368
+ 1.1  2.9 ./cli kernel images/4096x40   0 393348
+ 1.1  2.9 ./cli kernel images/4096x40   0 393388
+ 1.1  2.9 ./cli kernel images/4096x40   0 393396
+ 1.1  2.9 ./cli kernel images/4096x40   0 393340
+ 1.1  2.9 ./cli kernel images/4096x40   0 393392
+ 1.1  2.9 ./cli kernel images/4096x40   0 393392
+ 1.1  2.9 ./cli kernel images/4096x40   1 393392
+ 1.1  2.9 ./cli kernel images/4096x40   1 393340
+ 1.1  2.9 ./cli kernel images/4096x40   0 393372
+ 1.2  2.9 ./cli kernel images/4096x40   0 393344
+ 1.6  2.9 ./cli kernel images/4096x40   0 393392
+ 1.6  2.9 ./cli kernel images/4096x40   0 393392
+ 1.6  2.9 ./cli kernel images/4096x40   1 393392
+ 1.6  2.9 ./cli kernel images/4096x40   0 393388
+ 1.7  2.9 ./cli kernel images/4096x40   0 393344
+ 1.8  2.9 ./cli kernel images/4096x40   0 393392
+ 1.8  2.9 ./cli kernel images/4096x40   0 393388
+ 1.8  2.9 ./cli kernel images/4096x40   0 393344
+ 1.8  2.9 ./cli kernel images/4096x40   0 393388
+ 1.8  2.9 ./cli kernel images/4096x40   0 393392
+ 1.8  2.9 ./cli kernel images/4096x40   0 393344
+ 1.9  2.9 ./cli kernel images/4096x40   0 393340
+ 1.9  2.9 ./cli kernel images/4096x40   0 393392
+ 1.9  2.9 ./cli kernel images/4096x40   0 393388
+ 1.9  2.9 ./cli kernel images/4096x40   0 393392

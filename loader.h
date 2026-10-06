@@ -39,3 +39,5 @@ int saveimage_mmap(char* filename, struct image* image);
 
 int loadimage(char* filename, struct image* image);
 int saveimage(char* filename, struct image* image);
+
+void unmap_image(struct image* image);

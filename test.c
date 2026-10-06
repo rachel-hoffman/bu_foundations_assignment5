@@ -75,6 +75,7 @@ int test_mmap() {
     out->height = 426;
     
     loadimage_mmap("test.bin", out);
+
     
     return compare_images(image, out,0);
 }
@@ -96,12 +97,13 @@ int test_blur_mmap() {
     struct image* ref = malloc(sizeof(struct image));
     ref->width = 640;
     ref->height = 426;
-
-    loadimage("reference/blur.bmp",ref);
+    // ref->pixels = malloc(sizeof(struct pixel) * ref->width * ref->height);
+    loadimage("reference/blur.bmp", ref);
 
     int kernel[3][3] = {{1,1,1},{1,1,1},{1,1,1}};
 
     struct image* out = apply_kernel(img2, (int*) kernel, 3, 1.0/9);
+
 
     return compare_images(ref, out,1);
     

@@ -1,0 +1,6 @@
+%CPU %MEM ARGS Sun Oct  4 06:34:33 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       1  2300
+ 0.0  0.0 ./cli mmap images/4096x4096   1  1268
+ 0.0  0.0 ./cli mmap images/4096x4096   0  1256
+  PID User     Command                         Swap      USS      PSS      RSS 
+75235 root     /usr/bin/python3 /usr/bin/s        0     7644     8716    14404 

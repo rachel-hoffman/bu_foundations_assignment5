@@ -1,0 +1,8 @@
+%CPU %MEM ARGS Thu Oct  1 06:14:56 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2380
+  PID User     Command                         Swap      USS      PSS      RSS 
+27814 root     /usr/bin/python3 /usr/bin/s        0     7588     8687    14416 
+%CPU %MEM ARGS Thu Oct  1 06:14:56 PM UTC 2026
+ 0.0  0.0 grep --color=auto ./cli       0  2304
+  PID User     Command                         Swap      USS      PSS      RSS 
+27824 root     /usr/bin/python3 /usr/bin/s        0     7620     8720    14404 
